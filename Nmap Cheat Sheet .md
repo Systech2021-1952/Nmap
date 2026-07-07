@@ -14,6 +14,7 @@ Target Specification
 |  --exclude |  nmap --exclude 192.168.1.1 |  Exclude listed hosts
 
 
+
 Scan Techniques
 | Switch | Example | Description  |
 |----|-----|----|
