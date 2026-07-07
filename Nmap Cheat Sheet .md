@@ -12,3 +12,13 @@ Target Specification
 |  -iL |  nmap -iL targets.txt |  Scan targets from a file |
 |  -iR |  nmap -iR 100 |  Scan 100 random hosts
 |  --exclude |  nmap --exclude 192.168.1.1 |  Exclude listed hosts
+
+Scan Techniques
+| Switch | Example | Description  |
+|----|-----|----|
+|  -sS |  nmap 192.168.1.1 -sS |  TCP SYN port scan (Default)
+|  -sT |  nmap 192.168.1.1 -sT | TCP connect port scan<br />(Default without root privilege)|
+|  -sU |  nmap 192.168.1.1 -sU |  UDP port scan
+|  -sA |  nmap 192.168.1.1 -sA |  TCP ACK port scan |
+|  -sW |  nmap 192.168.1.1 -sW |  TCP Window port scan
+|  -sM |  nmap 192.168.1.1 -sM |  TCP Maimon port scan
