@@ -14,6 +14,7 @@ Target Specification
 |  -iR |  nmap -iR 100 |  Scan 100 random hosts
 |  --exclude |  nmap --exclude 192.168.1.1 |  Exclude listed hosts
 
+
 Scan Techniques
 ----------
 | Switch | Example | Description  |
@@ -24,3 +25,5 @@ Scan Techniques
 |  -sA |  nmap 192.168.1.1 -sA |  TCP ACK port scan |
 |  -sW |  nmap 192.168.1.1 -sW |  TCP Window port scan
 |  -sM |  nmap 192.168.1.1 -sM |  TCP Maimon port scan
+
+
