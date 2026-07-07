@@ -2,6 +2,7 @@ Nmap Cheat Sheet For Penetration Testing
 ===============
 
 Target Specification
+----------
 | Switch | Example | Description |
 |--------|---------|-------------|
 | |nmap 192.168.1.1| Scan a single IP |
