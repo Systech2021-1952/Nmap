@@ -13,9 +13,8 @@ Target Specification
 |  -iR |  nmap -iR 100 |  Scan 100 random hosts
 |  --exclude |  nmap --exclude 192.168.1.1 |  Exclude listed hosts
 
-
-
 Scan Techniques
+----------
 | Switch | Example | Description  |
 |----|-----|----|
 |  -sS |  nmap 192.168.1.1 -sS |  TCP SYN port scan (Default)
