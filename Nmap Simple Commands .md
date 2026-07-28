@@ -16,7 +16,8 @@
 |Script Scan  |nmap -sC [target] |
 |Fast Scan | nmap nmap -F [target]-sC [target] |
 
-```
+----------
+
 > This is a quote.
 # Completed 
 
