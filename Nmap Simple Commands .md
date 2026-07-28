@@ -1,31 +1,31 @@
 
 # NMAP COMMANDS :
 
-```bash
+| Description | Command |
+|----- |----- |
+|Basic Scan | nmap [target] |
 
-Basic Scan = nmap [target]
+|Specific Port Scan | nmap -p [port] [target] |
 
-Specific Port Scan = nmap -p [port] [target]
+|Scan Port Range | nmap -p [start_port]-[end_port] [target] |
 
-Scan Port Range = nmap -p [start_port]-[end_port] [target]
+|Aggressive Scan | nmap -A [target] |
 
-Aggressive Scan = nmap -A [target]
+|Scan Multiple Targets | nmap [target1] [target2] |
 
-Scan Multiple Targets = nmap [target1] [target2]
+|Output to File  |nmap -oN output.txt [target] |
 
-Output to File = nmap -oN output.txt [target]
+|Service Version Detection =| nmap -sV [target] |
 
-Service Version Detection = nmap -sV [target]
+|Operating System Detection  |nmap -O [target] |
 
-Operating System Detection = nmap -O [target]
+|UDP Scan |  nmap -sU [target] |
 
-UDP Scan =  nmap -sU [target]
+|Ping Scan | nmap -sn [target] |
 
-Ping Scan = nmap -sn [target]
+|Script Scan  |nmap -sC [target] |
 
-Script Scan = nmap -sC [target]
-
-Fast Scan = nmap nmap -F [target]-sC [target]
+|Fast Scan | nmap nmap -F [target]-sC [target] |
 ```
 > This is a quote.
 # Completed 
