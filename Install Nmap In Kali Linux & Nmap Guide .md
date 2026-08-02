@@ -38,6 +38,8 @@ Targets can be IP addresses, ranges, or domain names. Nmap identifies port state
 open, closed, and filtered.
 
 ### Scan Types
+
+| Details | Commands |
 |-----|-----|
 | TCP Connect Scan | nmap -sT 192.168.1.1 |
 | SYN Scan | nmap -sS 192.168.1.1 |
