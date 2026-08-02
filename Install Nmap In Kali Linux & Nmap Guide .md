@@ -15,11 +15,16 @@ Real-world ethical use cases include SOC monitoring, VAPT assessments, penetrati
 ### Linux (Kali / Ubuntu)
 
 > sudo apt update
+
 > sudo apt install nmap
 
 ### Windows
-Download installer from:
-https://nmap.org/download.html
+```
+ Download installer from:
+ https://nmap.org/download.html
+```
 
 ### macOS
+```
 brew install nmap
+```
