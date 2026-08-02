@@ -44,3 +44,46 @@ open, closed, and filtered.
 | SYN Scan | nmap -sS 192.168.1.1 |
 | UDP Scan | nmap -sU 192.168.1.1 |
 | Ping Scan | nmap -sn 192.168.1.0/24 |
+
+Port Scanning Techniques
+Default scan        : nmap target
+Specific ports      : nmap -p 80,443 target
+All ports           : nmap -p- target
+Fast scan           : nmap -F target
+Service & Version Detection
+Service detection   : nmap -sV target
+OS detection        : nmap -O target
+Aggressive scan     : nmap -A target
+Nmap Scripting Engine (NSE)
+NSE allows Nmap to run scripts for vulnerability detection, brute force testing, and information
+gathering. Scripts are grouped into categories like safe, auth, vuln, and discovery.
+
+Run default scripts : nmap -sC target
+Run vuln scripts    : nmap --script vuln targe
+
+
+Output & Reporting
+Normal output       : nmap target
+Save normal output  : nmap -oN output.txt target
+Grepable output     : nmap -oG output.gnmap target
+XML output          : nmap -oX output.xml target
+Performance & Evasion
+Nmap timing templates (-T0 to -T5) control scan speed. Slower scans are stealthier, while faster
+scans are noisy. Firewall and IDS awareness is important and should be studied only at a high
+level and ethically.
+Defensive Perspective
+Defenders detect Nmap scans using IDS/IPS, SIEM logs, and firewall alerts. Systems can be
+hardened by closing unused ports, applying patches, and monitoring traffic. Blue teams must
+understand scanning to defend effectively.
+Ethical & Legal Disclaimer
+WARNING: Nmap must be used ONLY on systems you own or have written permission to test.
+Unauthorized scanning is illegal and punishable by law. Ethical hackers must always follow legal
+and professional guidelines.
+Conclusion
+This guide introduced Nmap from both offensive and defensive perspectives. Students should
+continue practicing in legal labs and controlled environments to build strong ethical hacking
+skills
+
+
+
+
