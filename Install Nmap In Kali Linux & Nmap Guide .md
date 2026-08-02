@@ -39,8 +39,8 @@ open, closed, and filtered.
 
 ### Scan Types
 
-| Details | Commands |
 | TCP Connect Scan | nmap -sT 192.168.1.1 |
+|-----|-----|
 | SYN Scan | nmap -sS 192.168.1.1 |
 | UDP Scan | nmap -sU 192.168.1.1 |
 | Ping Scan | nmap -sn 192.168.1.0/24 |
