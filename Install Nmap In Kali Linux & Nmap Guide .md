@@ -55,8 +55,9 @@ open, closed, and filtered.
 
 ### Service & Version Detection
 
-|-----|-----|
+
 | Service detection   | nmap -sV target |
+|-----|-----|
 | OS detection       |  nmap -O target |
 | Aggressive scan     | nmap -A target |
 
