@@ -67,6 +67,7 @@ NSE allows Nmap to run scripts for vulnerability detection, brute force testing,
 gathering. Scripts are grouped into categories like safe, auth, vuln, and discovery.
 
 > Run default scripts : nmap -sC target
+
 > Run vuln scripts    : nmap --script vuln targe
 
 
