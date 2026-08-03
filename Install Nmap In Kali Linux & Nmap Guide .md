@@ -81,25 +81,25 @@ gathering. Scripts are grouped into categories like safe, auth, vuln, and discov
 
 ### Performance & Evasion
 
-Nmap timing templates (-T0 to -T5) control scan speed. Slower scans are stealthier, while faster
+- Nmap timing templates (-T0 to -T5) control scan speed. Slower scans are stealthier, while faster
 scans are noisy. Firewall and IDS awareness is important and should be studied only at a high
 level and ethically.
 
 ### Defensive Perspective
 
-Defenders detect Nmap scans using IDS/IPS, SIEM logs, and firewall alerts. Systems can be
+- Defenders detect Nmap scans using IDS/IPS, SIEM logs, and firewall alerts. Systems can be
 hardened by closing unused ports, applying patches, and monitoring traffic. Blue teams must
 understand scanning to defend effectively.
 
 ### Ethical & Legal Disclaimer
 
-WARNING: Nmap must be used ONLY on systems you own or have written permission to test.
+- WARNING: Nmap must be used ONLY on systems you own or have written permission to test.
 Unauthorized scanning is illegal and punishable by law. Ethical hackers must always follow legal
 and professional guidelines.
 
 ### Conclusion
 
-This guide introduced Nmap from both offensive and defensive perspectives. Students should
+- This guide introduced Nmap from both offensive and defensive perspectives. Students should
 continue practicing in legal labs and controlled environments to build strong ethical hacking
 skills
 
