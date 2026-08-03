@@ -54,6 +54,7 @@ open, closed, and filtered.
 | Fast scan  | nmap -F target |
 
 ### Service & Version Detection
+
 |-----|-----|
 | Service detection   | nmap -sV target |
 | OS detection       |  nmap -O target |
