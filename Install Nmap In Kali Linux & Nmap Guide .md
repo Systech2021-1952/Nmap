@@ -3,13 +3,13 @@
 ## Cybersecurity • Network Scanning • Ethical Hacking
 
 ### Introduction : 
-Nmap (Network Mapper) is a powerful open-source tool used for network discovery and security auditing. 
+- Nmap (Network Mapper) is a powerful open-source tool used for network discovery and security auditing. 
 It helps identify live hosts, open ports, services, and operating systems on a network.
 
-Network scanning is important because it helps organizations understand their attack surface.
+- Network scanning is important because it helps organizations understand their attack surface.
 By scanning systems ethically, defenders can fix vulnerabilities before attackers exploit them.
 
-Real-world ethical use cases include SOC monitoring, VAPT assessments, penetration testing, and academic learning.
+- Real-world ethical use cases include SOC monitoring, VAPT assessments, penetration testing, and academic learning.
 
 ## Installation Guide
 ### Linux (Kali / Ubuntu)
@@ -34,7 +34,7 @@ brew install nmap
 Nmap basic syntax:
 nmap [options] target
 
-Targets can be IP addresses, ranges, or domain names. Nmap identifies port states such as
+- Targets can be IP addresses, ranges, or domain names. Nmap identifies port states such as
 open, closed, and filtered.
 
 ### Scan Types
@@ -55,7 +55,6 @@ open, closed, and filtered.
 
 ### Service & Version Detection
 
-
 | Service detection   | nmap -sV target |
 |-----|-----|
 | OS detection       |  nmap -O target |
@@ -63,7 +62,7 @@ open, closed, and filtered.
 
 ### Nmap Scripting Engine (NSE)
 
-NSE allows Nmap to run scripts for vulnerability detection, brute force testing, and information
+- NSE allows Nmap to run scripts for vulnerability detection, brute force testing, and information
 gathering. Scripts are grouped into categories like safe, auth, vuln, and discovery.
 
 > Run default scripts : nmap -sC target
