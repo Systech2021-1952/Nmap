@@ -45,12 +45,16 @@ open, closed, and filtered.
 | UDP Scan | nmap -sU 192.168.1.1 |
 | Ping Scan | nmap -sn 192.168.1.0/24 |
 
-Port Scanning Techniques
-Default scan        : nmap target
-Specific ports      : nmap -p 80,443 target
-All ports           : nmap -p- target
-Fast scan           : nmap -F target
-Service & Version Detection
+### Port Scanning Techniques
+
+| Default scan | nmap target |
+| ----- | ----- |
+| Specific ports | nmap -p 80,443 target |
+| All ports | nmap -p- target |
+| Fast scan  | nmap -F target |
+
+### Service & Version Detection
+
 Service detection   : nmap -sV target
 OS detection        : nmap -O target
 Aggressive scan     : nmap -A target
