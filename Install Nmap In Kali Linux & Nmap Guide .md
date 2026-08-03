@@ -61,12 +61,13 @@ open, closed, and filtered.
 | OS detection       |  nmap -O target |
 | Aggressive scan     | nmap -A target |
 
-Nmap Scripting Engine (NSE)
+### Nmap Scripting Engine (NSE)
+
 NSE allows Nmap to run scripts for vulnerability detection, brute force testing, and information
 gathering. Scripts are grouped into categories like safe, auth, vuln, and discovery.
 
-Run default scripts : nmap -sC target
-Run vuln scripts    : nmap --script vuln targe
+> Run default scripts : nmap -sC target
+> Run vuln scripts    : nmap --script vuln targe
 
 
 Output & Reporting
