@@ -31,9 +31,9 @@ brew install nmap
 
 ### Nmap Basics :
 
-Nmap basic syntax :
+> Nmap basic syntax :
 
-nmap [options] target
+> nmap [options] target
 
 - Targets can be IP addresses, ranges, or domain names. Nmap identifies port states such as
 open, closed, and filtered.
