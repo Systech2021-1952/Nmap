@@ -73,10 +73,11 @@ gathering. Scripts are grouped into categories like safe, auth, vuln, and discov
 
 ### Output & Reporting
 
-Normal output       : nmap target
-Save normal output  : nmap -oN output.txt target
-Grepable output     : nmap -oG output.gnmap target
-XML output          : nmap -oX output.xml target
+|Normal output      |  nmap target |
+|-----|-----|
+| Save normal output  | nmap -oN output.txt target |
+| Grepable output     | nmap -oG output.gnmap target |
+| XML output         |  nmap -oX output.xml target |
 
 Performance & Evasion
 Nmap timing templates (-T0 to -T5) control scan speed. Slower scans are stealthier, while faster
