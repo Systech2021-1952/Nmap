@@ -24,3 +24,22 @@
 | Language | English + Tanglish |
 | Total Chapters | 10 Chapters + Quick Reference |
 </div>
+■ FOR EDUCATIONAL PURPOSES ONLY — USE ETHICALLY & LEGALLY
+Ethical use pannunga — authorized systems-la matum use pannunga!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
