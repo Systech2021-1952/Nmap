@@ -1,15 +1,11 @@
-<div align="center">
+$$\color{#00FF00}{\text{[ NMAP ]}}$$
 
-# `[ NMAP ]`
+$$\color{#00FFFF}{\text{COMPLETE STUDY GUIDE}}$$
 
-### COMPLETE STUDY GUIDE
-
-**Beginner → Intermediate → Advanced**
+$$\color{#FFFF00}{\text{Beginner }\rightarrow\text{ Intermediate }\rightarrow\text{ Advanced}}$$
 
 ---
 
-## Network Mapper — The Complete Command Reference
+$$\color{#00FFFF}{\text{Network Mapper — The Complete Command Reference}}$$
 
-*English + Tanglish (Tamil in English Script)*
-
-</div>
+$$\color{#FFFF00}{\text{English + Tanglish (Tamil in English Script)}}$$
