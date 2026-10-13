@@ -14,4 +14,9 @@
 ### prashanth baskaran
 </div>
 
-
+| TOPIC | DETAILS |
+| Tool Name | Nmap (Network Mapper) |
+| Purpose | Network Discovery & Security Auditing |
+| Level | Beginner → Advanced |
+| Language | English + Tanglish |
+| Total Chapters | 10 Chapters + Quick Reference |
