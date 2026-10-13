@@ -1,4 +1,4 @@
-</div allign=center>
+</div allign="center">
 # [ NMAP ]
 
 ### COMPLETE STUDY GUIDE
