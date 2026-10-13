@@ -15,6 +15,7 @@
 </div>
 
 | TOPIC | DETAILS |
+|-----|-----|
 | Tool Name | Nmap (Network Mapper) |
 | Purpose | Network Discovery & Security Auditing |
 | Level | Beginner → Advanced |
