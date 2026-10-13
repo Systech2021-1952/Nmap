@@ -15,6 +15,7 @@
 </div>
 
 <div align="center">
+  
 | TOPIC | DETAILS |
 |-----|-----|
 | Tool Name | Nmap (Network Mapper) |
