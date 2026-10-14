@@ -81,6 +81,7 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
 -----
 ### CHAPTER 1: WHAT IS NMAP?
 Nmap enna? Enna pannum?
+
 Nmap (Network Mapper) is a free, open-source tool used for network discovery and security auditing. It was created by
 Gordon Lyon (Fyodor) in 1997. Nmap sends specially crafted packets to target hosts and analyzes the responses to
 determine what hosts are available, what services they are running, what operating systems are in use, and what type of
