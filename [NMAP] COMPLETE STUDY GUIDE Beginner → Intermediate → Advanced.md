@@ -35,36 +35,47 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
 -----
 
 [1] What is Nmap?
+
 → Nmap enna?
 
 [2] Installation & Setup
+
 → Install panni setup panrathu
 
 [3] Basic Scanning (Beginner)
+
 → Basic scan — Beginners ku
 
 [4] Host Discovery
+
 → Host kandupidikkirathu
 
 [5] Port Scanning Techniques
+
 → Port scan techniques
 
 [6] Service & Version Detection
+
 → Service version kandupidikkirathu
 
 [7] OS Detection
+
 → Operating System detection
 
 [8] Nmap Scripting Engine (NSE)
+
 → NSE — Advanced scripting
 
 [9] Evasion & Firewall Bypass
+
 → Firewall bypass techniques
 
 [10] Output & Reporting
+
 → Results save panrathu
 
 [★] Quick Reference Card
+
 → Ellaa commands oru pagela
 
 
