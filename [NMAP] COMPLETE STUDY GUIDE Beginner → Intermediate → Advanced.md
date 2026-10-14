@@ -77,6 +77,7 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
 [★] Quick Reference Card
 
  → Ellaa commands oru pagela
+
 -----
 ◆ CHAPTER 1: WHAT IS NMAP?
 
