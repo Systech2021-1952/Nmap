@@ -80,7 +80,7 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
 
 -----
 ### CHAPTER 1: WHAT IS NMAP?
-
+Nmap enna? Enna pannum?
 
 
 
