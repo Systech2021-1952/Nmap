@@ -109,8 +109,7 @@ Install panni setup panrathu
 Linux-la install panrathu
 
 |Command|Description (EN)|Tanglish|
-
-|---|---|
+|---|---|---|
 
 
 
