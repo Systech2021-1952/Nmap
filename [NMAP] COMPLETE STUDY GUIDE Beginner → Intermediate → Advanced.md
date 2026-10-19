@@ -104,7 +104,7 @@ certifications all test Nmap knowledge.
 OSCP exams-la Nmap questions varum — must learn!
 -----
 ### CHAPTER 2: INSTALLATION & SETUP
-
+Install panni setup panrathu
 
 
 
