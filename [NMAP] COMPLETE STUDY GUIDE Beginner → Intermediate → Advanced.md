@@ -36,7 +36,7 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
 
 [1] What is Nmap?
 
-   → Nmap enna?
+ → Nmap enna?
 
 [2] Installation & Setup
 
@@ -87,6 +87,10 @@ Gordon Lyon (Fyodor) in 1997. Nmap sends specially crafted packets to target hos
 determine what hosts are available, what services they are running, what operating systems are in use, and what type of
 firewalls are deployed
 
+> → Nmap oru free open-source tool. Itha use panni network-la irukkira computers, ports, services ellaam kandupidikkalaam.
+1997-la Gordon Lyon create pannaar. Packet anuppi response analyze pannitu information collect pannum.
+
+> 
 
 
 
