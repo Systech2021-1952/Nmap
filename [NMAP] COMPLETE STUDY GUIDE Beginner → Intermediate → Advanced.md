@@ -36,15 +36,15 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
 
 [1] What is Nmap?
 
- → Nmap enna?
+   → Nmap enna?
 
 [2] Installation & Setup
 
- → Install panni setup panrathu
+   → Install panni setup panrathu
 
 [3] Basic Scanning (Beginner)
 
- → Basic scan — Beginners ku
+   → Basic scan — Beginners ku
 
 [4] Host Discovery
 
