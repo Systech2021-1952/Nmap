@@ -96,7 +96,7 @@ NSE scripts), Network inventory, Security auditing.
 ellaamey Nmap-la possible!
 >
 ### WHY LEARN NMAP?
-
+Nmap ethukku karkanum?
 
 
 
