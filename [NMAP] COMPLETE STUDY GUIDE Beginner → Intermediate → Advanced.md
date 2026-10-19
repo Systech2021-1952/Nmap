@@ -111,7 +111,7 @@ Linux-la install panrathu
 |Command|Description (EN)|Tanglish|
 |---|---|---|
 |sudo apt install nmap |Install Nmap on Debian/Ubuntu |Ubuntu/Kali-la install pannum|
-
+|sudo yum install nmap |Install on RHEL/CentOS |CentOS-la install pannum|
 
 
 
