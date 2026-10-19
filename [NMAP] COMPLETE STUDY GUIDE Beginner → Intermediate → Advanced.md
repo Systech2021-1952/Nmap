@@ -102,8 +102,8 @@ is pre-installed in Kali Linux, Parrot OS, and many security distributions. Comp
 certifications all test Nmap knowledge.
 > → Ethical hackers, pen testers, network admins — ellaarum Nmap use pannuvaanga. Kali Linux-la default-aa varum. CEH,
 OSCP exams-la Nmap questions varum — must learn!
-
-
+-----
+### CHAPTER 2: INSTALLATION & SETUP
 
 
 
