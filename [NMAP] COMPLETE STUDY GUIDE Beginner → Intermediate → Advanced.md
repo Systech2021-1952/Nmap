@@ -93,8 +93,9 @@ firewalls are deployed
 > 
 KEY USES: Port scanning, Host discovery, Service/version detection, OS fingerprinting, Vulnerability scanning (with
 NSE scripts), Network inventory, Security auditing.
-
-
+> → Nmap use pannuvom: port scan, host discover, service version check, OS kandupidi, vulnerability scan, network audit —
+ellaamey Nmap-la possible!
+>
 
 
 
