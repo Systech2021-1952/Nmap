@@ -100,7 +100,8 @@ Nmap ethukku karkanum?
 Nmap is the #1 tool used by ethical hackers, penetration testers, network admins, and security researchers worldwide. It
 is pre-installed in Kali Linux, Parrot OS, and many security distributions. CompTIA Security+, CEH, and OSCP
 certifications all test Nmap knowledge.
-
+> → Ethical hackers, pen testers, network admins — ellaarum Nmap use pannuvaanga. Kali Linux-la default-aa varum. CEH,
+OSCP exams-la Nmap questions varum — must learn!
 
 
 
