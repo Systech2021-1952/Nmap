@@ -89,7 +89,6 @@ firewalls are deployed
 
 > → Nmap oru free open-source tool. Itha use panni network-la irukkira computers, ports, services ellaam kandupidikkalaam.
 1997-la Gordon Lyon create pannaar. Packet anuppi response analyze pannitu information collect pannum.
-
 > 
 KEY USES: Port scanning, Host discovery, Service/version detection, OS fingerprinting, Vulnerability scanning (with
 NSE scripts), Network inventory, Security auditing.
