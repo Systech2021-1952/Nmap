@@ -91,7 +91,8 @@ firewalls are deployed
 1997-la Gordon Lyon create pannaar. Packet anuppi response analyze pannitu information collect pannum.
 
 > 
-
+KEY USES: Port scanning, Host discovery, Service/version detection, OS fingerprinting, Vulnerability scanning (with
+NSE scripts), Network inventory, Security auditing.
 
 
 
