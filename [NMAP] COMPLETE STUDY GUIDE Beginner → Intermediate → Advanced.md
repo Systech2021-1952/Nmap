@@ -107,8 +107,8 @@ OSCP exams-la Nmap questions varum — must learn!
 Install panni setup panrathu
 #### Installing on Linux
 Linux-la install panrathu
-
-
+|Command|Description (EN)|Tanglish|
+|---|---|
 
 
 
