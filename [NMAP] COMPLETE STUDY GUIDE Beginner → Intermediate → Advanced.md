@@ -124,3 +124,26 @@ brew install nmap OR download .dmg from nmap.org
 install nmap' nu type pannu.
 
 ### CHAPTER 3: BASIC SCANNING — BEGINNER LEVEL
+Basic Scanning — Beginners ku
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
