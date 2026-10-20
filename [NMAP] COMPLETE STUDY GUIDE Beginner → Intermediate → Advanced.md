@@ -114,7 +114,7 @@ Linux-la install panrathu
 |sudo yum install nmap |Install on RHEL/CentOS |CentOS-la install pannum|
 |sudo pacman -S nmap |Install on Arch Linux |Arch Linux-la install pannum|
 |nmap --version |Check installed version |Version check pannu|
-
+|which nmap |Find nmap location |Nmap path kandupidi|
 
 
 
