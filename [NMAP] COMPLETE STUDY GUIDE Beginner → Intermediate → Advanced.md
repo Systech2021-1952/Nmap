@@ -126,6 +126,7 @@ install nmap' nu type pannu.
 ### CHAPTER 3: BASIC SCANNING — BEGINNER LEVEL
 Basic Scanning — Beginners ku
 
+### The Most Basic Scans
 
 
 
