@@ -127,7 +127,7 @@ install nmap' nu type pannu.
 Basic Scanning — Beginners ku
 
 ### The Most Basic Scans
-
+Miga basic scan commands
 
 
 
