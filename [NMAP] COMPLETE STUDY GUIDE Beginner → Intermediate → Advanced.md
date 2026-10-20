@@ -112,7 +112,7 @@ Linux-la install panrathu
 |---|---|---|
 |sudo apt install nmap |Install Nmap on Debian/Ubuntu |Ubuntu/Kali-la install pannum|
 |sudo yum install nmap |Install on RHEL/CentOS |CentOS-la install pannum|
-
+|sudo pacman -S nmap |Install on Arch Linux |Arch Linux-la install pannum|
 
 
 
