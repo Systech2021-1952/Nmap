@@ -132,7 +132,7 @@ Miga basic scan commands
 |Command |Description (EN) |Tanglish|
 |---|---|---|
 |nmap <target> |Default scan (top 1000 ports, SYN scan as root) |Basic default scan — top 1000 ports check pannum|
-
+|nmap 192.168.1.1 |Scan a single IP address |Oru IP address scan pannu|
 
 
 
