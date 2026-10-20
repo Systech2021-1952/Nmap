@@ -120,5 +120,6 @@ Linux-la install panrathu
 Windows / Mac-la install panrathu
 Windows: Download installer from https://nmap.org/download.html — includes Zenmap GUI. macOS: Use Homebrew →
 brew install nmap OR download .dmg from nmap.org
-
+> → Windows-la nmap.org-la irundhu installer download pannu — Zenmap GUI vaarum. Mac-la homebrew use panni 'brew
+install nmap' nu type pannu.
 
