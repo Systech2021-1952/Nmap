@@ -118,6 +118,7 @@ Linux-la install panrathu
 
 ### Installing on Windows & Mac
 Windows / Mac-la install panrathu
-
+Windows: Download installer from https://nmap.org/download.html — includes Zenmap GUI. macOS: Use Homebrew →
+brew install nmap OR download .dmg from nmap.org
 
 
