@@ -129,6 +129,70 @@ Basic Scanning — Beginners ku
 ### The Most Basic Scans
 Miga basic scan commands
 
+|Command |Description (EN) |Tanglish|
+|---|---|---|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
