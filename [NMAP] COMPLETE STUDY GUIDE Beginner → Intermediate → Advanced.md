@@ -116,7 +116,7 @@ Linux-la install panrathu
 |nmap --version |Check installed version |Version check pannu|
 |which nmap |Find nmap location |Nmap path kandupidi|
 
-
+### Installing on Windows & Mac
 
 
 
