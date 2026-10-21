@@ -153,12 +153,12 @@ ports ellaarum therinjukkanum!
 
 |State |Meaning (EN) |Tanglish|
 |---|---|---|
-|open |
-|closed |
-|filtered |
-|unfiltered |
-|open filtered |
-|closed filtered |
+|open |Port is accepting connections | Port open — service running irukkum |
+|closed | Port reachable but no service |
+|filtered | Firewall blocking — no response |
+|unfiltered | Port reachable but state unknown |
+|open filtered | — unclear |
+|closed filtered | Either closed or filtered |
 
 
 
