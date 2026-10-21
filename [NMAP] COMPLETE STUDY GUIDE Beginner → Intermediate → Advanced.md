@@ -157,8 +157,8 @@ ports ellaarum therinjukkanum!
 |closed |
 |filtered |
 |unfiltered |
-|open|filtered |
-|closed|filtered |
+|open filtered |
+|closed filtered |
 
 
 
