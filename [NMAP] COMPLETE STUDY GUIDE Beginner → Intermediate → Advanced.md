@@ -134,7 +134,7 @@ Miga basic scan commands
 |nmap <target> |Default scan (top 1000 ports, SYN scan as root) |Basic default scan — top 1000 ports check pannum|
 |nmap 192.168.1.1 |Scan a single IP address |Oru IP address scan pannu|
 |nmap google.com |Scan a domain/hostname |Domain name kuduthu scan pannu|
-
+|nmap 192.168.1.1-50 |Scan IP range |IP range scan — 1 to 50 check pannum|
 
 
 
