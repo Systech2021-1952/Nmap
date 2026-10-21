@@ -137,7 +137,8 @@ Miga basic scan commands
 |nmap 192.168.1.1-50 |Scan IP range |IP range scan — 1 to 50 check pannum|
 |nmap 192.168.1.0/24 |Scan entire subnet (CIDR) |Entire subnet scan — /24 = 256 hosts|
 |nmap 192.168.1.1 192.168.1.5 |Scan multiple specific IPs |Multiple IP scan — space-la separate pannunga|
-
+|nmap -iL targets.txt |Scan IPs from a file |File-la irukira IP list scan pannum|
+|nmap --exclude 192.168.1.5 |Exclude specific host from scan |Oru host-a skip panni scan pannum|
 
 
 
