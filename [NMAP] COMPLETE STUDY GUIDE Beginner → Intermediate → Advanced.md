@@ -143,7 +143,8 @@ Miga basic scan commands
 - ### Understanding Ports
 Ports pathi therinjukkanum
 
-
+Ports are like doors on a computer. There are 65,535 total ports. Well-known ports (0-1023): 80=HTTP, 443=HTTPS,
+22=SSH, 21=FTP, 25=SMTP, 3306=MySQL. Registered ports (1024-49151), Dynamic ports (49152-65535)
 
 
 
