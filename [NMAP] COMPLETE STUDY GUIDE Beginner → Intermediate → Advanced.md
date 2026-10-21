@@ -148,7 +148,8 @@ Ports are like doors on a computer. There are 65,535 total ports. Well-known por
 > → Ports computer-oda doors madhiri. M■■■■■■ 65,535 ports irukkum. 80=HTTP, 443=HTTPS, 22=SSH, 21=FTP — intha
 ports ellaarum therinjukkanum!
 
-
+- ### Port State Meanings
+  Port state-oda artham
 
 
 
