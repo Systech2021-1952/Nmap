@@ -140,7 +140,7 @@ Miga basic scan commands
 |nmap -iL targets.txt |Scan IPs from a file |File-la irukira IP list scan pannum|
 |nmap --exclude 192.168.1.5 |Exclude specific host from scan |Oru host-a skip panni scan pannum|
 
-### - Understanding Ports
+- ### Understanding Ports
 Ports pathi therinjukkanum
 
 
