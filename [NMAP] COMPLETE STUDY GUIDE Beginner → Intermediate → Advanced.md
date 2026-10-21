@@ -151,7 +151,8 @@ ports ellaarum therinjukkanum!
 - ### Port State Meanings
   Port state-oda artham
 
-
+|State |Meaning (EN) |Tanglish|
+|---|---|---|
 
 
 
