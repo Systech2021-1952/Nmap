@@ -160,7 +160,8 @@ ports ellaarum therinjukkanum!
 |open filtered | — unclear | Open-aa filtered-aa confirm illa
 |closed filtered | Either closed or filtered | Closed-aa filtered-aa confirm illa
 
-
+### CHAPTER 4: HOST DISCOVERY
+Network-la irukkira hosts kandupidikkirathu
 
 
 
