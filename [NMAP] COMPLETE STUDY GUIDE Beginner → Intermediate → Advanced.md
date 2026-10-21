@@ -153,7 +153,12 @@ ports ellaarum therinjukkanum!
 
 |State |Meaning (EN) |Tanglish|
 |---|---|---|
-
+|open |
+|closed |
+|filtered |
+|unfiltered |
+|open|filtered |
+|closed|filtered |
 
 
 
