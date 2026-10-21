@@ -154,11 +154,11 @@ ports ellaarum therinjukkanum!
 |State |Meaning (EN) |Tanglish|
 |---|---|---|
 |open |Port is accepting connections | Port open — service running irukkum |
-|closed | Port reachable but no service |
-|filtered | Firewall blocking — no response |
-|unfiltered | Port reachable but state unknown |
-|open filtered | — unclear |
-|closed filtered | Either closed or filtered |
+|closed | Port reachable but no service | Port respond pannum but service illa
+|filtered | Firewall blocking — no response | Firewall block pannuduchu — response varalai
+|unfiltered | Port reachable but state unknown | Reachable but open/closed theriyala
+|open filtered | — unclear | Open-aa filtered-aa confirm illa
+|closed filtered | Either closed or filtered | Closed-aa filtered-aa confirm illa
 
 
 
