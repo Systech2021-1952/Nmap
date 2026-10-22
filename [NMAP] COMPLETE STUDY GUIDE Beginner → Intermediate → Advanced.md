@@ -169,7 +169,8 @@ the first step in any network recon.
 # → Port scan pannum munnaadi, etha hosts online-la irukkaanga nu kandupidikkanam. Intha process-ku 'Host Discovery' nu
 peru. Network recon-la first step idhu.
 
-
+|Command |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
