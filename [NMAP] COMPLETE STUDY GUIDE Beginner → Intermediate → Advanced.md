@@ -184,7 +184,7 @@ peru. Network recon-la first step idhu.
 |nmap -n 192.168.1.1 |Skip DNS resolution (faster) |DNS lookup skip — scan faster aagum |
 |nmap -R 192.168.1.0/24 |Always do DNS resolution |Ellaa hosts-ku DNS resolve pannu |
 -----
-# CHAPTER 5: PORT SCANNING TECHNIQUES
+## CHAPTER 5: PORT SCANNING TECHNIQUES
 CHAPTER 5: PORT SCANNING TECHNIQUES
 
 ## Scan Types (-s flags)
