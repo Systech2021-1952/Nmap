@@ -188,7 +188,7 @@ peru. Network recon-la first step idhu.
 ### CHAPTER 5: PORT SCANNING TECHNIQUES
 Port Scanning Techniques — Detailed
 
-### Scan Types (-s flags)
+- ### Scan Types (-s flags)
 Scan Types — -s flags
 
 |Command / Flag |Description (EN) |Tanglish |
