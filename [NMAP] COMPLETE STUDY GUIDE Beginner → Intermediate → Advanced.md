@@ -171,6 +171,18 @@ peru. Network recon-la first step idhu.
 
 |Command |Description (EN) |Tanglish |
 |---|---|---|
+|nmap -sn 192.168.1.0/24 |ing scan — no port scan, just host discovery |Ports scan panna maatan — hosts matum ka |
+|nmap -Pn 192.168.1.1 |Skip host discovery — treat host as online |Ping panna maatan — direct port scan pann |
+|nmap -PS 192.168.1.1 |TCP SYN ping to port 80 |CP SYN ping — port 80-ku anuppu |
+|nmap -PS22,80,443 |TCP SYN ping on multiple ports |Multiple ports-ku SYN ping anuppu |
+|nmap -PA 192.168.1.1 |TCP ACK ping (bypass firewalls) |ACK ping — firewall bypass ku useful |
+|nmap -PU 192.168.1.1 |UDP ping discovery |UDP protocol use panni ping pannu |
+|nmap -PE 192.168.1.0/24 |ICMP echo request (traditional ping) |Traditional ICMP ping — normal ping madhiri |
+|nmap -PP 192.168.1.0/24 |ICMP timestamp ping |ICMP timestamp request use pannu |
+|nmap -PM 192.168.1.0/24 |ICMP address mask ping |ICMP address mask request use pannu |
+|nmap -PR 192.168.1.0/24 |ARP ping (LAN — very fast) |LAN-la ARP use pannitu scan — mega fast! |
+|nmap -n 192.168.1.1 |Skip DNS resolution (faster) |DNS lookup skip — scan faster aagum |
+|nmap -R 192.168.1.0/24 |Always do DNS resolution |Ellaa hosts-ku DNS resolve pannu |
 
 
 
