@@ -122,7 +122,7 @@ Windows: Download installer from https://nmap.org/download.html — includes Zen
 brew install nmap OR download .dmg from nmap.org
 > → Windows-la nmap.org-la irundhu installer download pannu — Zenmap GUI vaarum. Mac-la homebrew use panni 'brew
 install nmap' nu type pannu.
-
+---
 ### CHAPTER 3: BASIC SCANNING — BEGINNER LEVEL
 Basic Scanning — Beginners ku
 
@@ -159,7 +159,7 @@ ports ellaarum therinjukkanum!
 |unfiltered | Port reachable but state unknown | Reachable but open/closed theriyala
 |open filtered | — unclear | Open-aa filtered-aa confirm illa
 |closed filtered | Either closed or filtered | Closed-aa filtered-aa confirm illa
-
+---
 ### CHAPTER 4: HOST DISCOVERY
 Network-la irukkira hosts kandupidikkirathu
 
