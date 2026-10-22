@@ -206,7 +206,7 @@ Scan Types — -s flags
 |nmap -sO <target> |IP Protocol Scan |IP protocols support check pannum |
 
 - # Port Specification
-
+Enna ports scan pannanum nu specify panrathu
 
 
 
