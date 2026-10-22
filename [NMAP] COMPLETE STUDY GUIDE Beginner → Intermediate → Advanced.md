@@ -166,7 +166,7 @@ Network-la irukkira hosts kandupidikkirathu
 Before scanning ports, Nmap tries to discover which hosts are online. This is called 'host discovery' or 'ping scan'. It's
 the first step in any network recon.
 
-# → Port scan pannum munnaadi, etha hosts online-la irukkaanga nu kandupidikkanam. Intha process-ku 'Host Discovery' nu
+- → Port scan pannum munnaadi, etha hosts online-la irukkaanga nu kandupidikkanam. Intha process-ku 'Host Discovery' nu
 peru. Network recon-la first step idhu.
 
 |Command |Description (EN) |Tanglish |
