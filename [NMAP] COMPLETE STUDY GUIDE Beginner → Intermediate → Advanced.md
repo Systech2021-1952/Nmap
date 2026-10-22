@@ -193,6 +193,17 @@ Scan Types — -s flags
 
 |Command / Flag |Description (EN) |Tanglish |
 |---|---|---|
+|nmap -sS <target> |TCP SYN Scan (Stealth) — DEFAULT as root |Stealth scan — half-open, fast, less detectable |
+|nmap -sT <target> |TCP Connect Scan — full 3-way handshake |Full connection — root illama use pannum |
+|nmap -sU <target> |UDP Scan — slower but important |UDP ports check — DNS, SNMP, DHCP etc |
+|nmap -sA <target> |TCP ACK Scan — firewall rule mapping |Firewall rules map pannurathu ku |
+|nmap -sW <target> |TCP Window Scan — like ACK scan |Window size analyze pannitu port state check |
+|nmap -sM <target> |TCP Maimon Scan — FIN/ACK probe |FIN+ACK probe — BSD systems detect pannumnmap -sN <target> TCP Null Scan — no flags set Flag illama packet anuppu — firewall bypass |
+|nmap -sF <target> |TCP FIN Scan — only FIN flag |Only FIN flag — stealth technique |
+|nmap -sX <target> |Xmas Scan — FIN+PSH+URG flags |3 flags on — Christmas tree scan nu solluvaangnmap -sY <target> SCTP INIT Scan SCTP protocol use panni scan |
+|nmap -sZ <target> |SCTP COOKIE-ECHO Scan |SCTP COOKIE-ECHO use panni scan |
+|nmap -sI zombie <target> |Idle/Zombie Scan — untraceable |Zombie computer use panni anonymous scan |
+|nmap -sO <target> |IP Protocol Scan |IP protocols support check pannum |
 
 
 
