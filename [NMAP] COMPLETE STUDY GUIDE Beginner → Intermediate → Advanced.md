@@ -185,7 +185,7 @@ peru. Network recon-la first step idhu.
 |nmap -R 192.168.1.0/24 |Always do DNS resolution |Ellaa hosts-ku DNS resolve pannu |
 -----
 # CHAPTER 5: PORT SCANNING TECHNIQUES
-###### CHAPTER 5: PORT SCANNING TECHNIQUES
+CHAPTER 5: PORT SCANNING TECHNIQUES
 
 
 
