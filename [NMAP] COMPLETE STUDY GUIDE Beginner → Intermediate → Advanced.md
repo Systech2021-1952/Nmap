@@ -189,7 +189,8 @@ CHAPTER 5: PORT SCANNING TECHNIQUES
 
 ### Scan Types (-s flags)
 Scan Types — -s flags
-
+|Command / Flag |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
