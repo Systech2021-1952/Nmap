@@ -183,8 +183,8 @@ peru. Network recon-la first step idhu.
 |nmap -PR 192.168.1.0/24 |ARP ping (LAN — very fast) |LAN-la ARP use pannitu scan — mega fast! |
 |nmap -n 192.168.1.1 |Skip DNS resolution (faster) |DNS lookup skip — scan faster aagum |
 |nmap -R 192.168.1.0/24 |Always do DNS resolution |Ellaa hosts-ku DNS resolve pannu |
-
-
+-----
+CHAPTER 5: PORT SCANNING TECHNIQUES
 
 
 
