@@ -223,9 +223,11 @@ Enna ports scan pannanum nu specify panrathu
 ### CHAPTER 6: SERVICE & VERSION DETECTION
 Service mattum Version kandupidikkirathu
 
+After finding open ports, the next step is to identify WHAT services are running and WHICH VERSION. This information
+is critical for finding vulnerabilities.
 
-
-
+- → Open ports kandupidichaa aprom enna service run aagudu, enna version use pannudu — intha info vulnerability find
+pannurathu ku romba important!
 
 
 
