@@ -221,7 +221,7 @@ Enna ports scan pannanum nu specify panrathu
 |nmap -r <target> |Scan ports in order (not random) |Ports order-aa scan — randomize panna maata |
 ---
 ### CHAPTER 6: SERVICE & VERSION DETECTION
-
+Service mattum Version kandupidikkirathu
 
 
 
