@@ -205,7 +205,7 @@ Scan Types — -s flags
 |nmap -sI zombie <target> |Idle/Zombie Scan — untraceable |Zombie computer use panni anonymous scan |
 |nmap -sO <target> |IP Protocol Scan |IP protocols support check pannum |
 
-- # Port Specification
+- ### Port Specification
 Enna ports scan pannanum nu specify panrathu
 
 |Command |Description (EN) |Tanglish |
