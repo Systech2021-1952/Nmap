@@ -210,7 +210,15 @@ Enna ports scan pannanum nu specify panrathu
 
 |Command |Description (EN) |Tanglish |
 |---|---|---|
-
+|nmap -p 80 <target> |Scan only port 80 |Port 80 matum scan pannu |
+|nmap -p 80,443,22 |Scan specific ports |Specific ports list kuduthu scan pannu |
+|nmap -p 1-1000 <target> |Scan port range |1 to 1000 1 to 1000 ports scan — range specify |
+|nmap -p- <target> |Scan all 65535 ports |Ellaa 65535 ports scan — time edukum |
+|nmap --top-ports 100 |Scan top 100 most common ports |Most common 100 ports matum scan |
+|nmap --top-ports 1000 |Scan top 1000 most common ports |Common 1000 ports — good balance |
+|nmap -p U:53,T:80 |Scan UDP port 53 and TCP port 80 |UDP 53 and TCP 80 — combined scan |
+|nmap -F <target> |Fast scan — top 100 ports only |Fast scan — 100 ports matum | 
+|nmap -r <target> |Scan ports in order (not random) |Ports order-aa scan — randomize panna maata |
 
 
 
