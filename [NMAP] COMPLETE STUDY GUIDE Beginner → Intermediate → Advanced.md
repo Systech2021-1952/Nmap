@@ -219,7 +219,7 @@ Enna ports scan pannanum nu specify panrathu
 |nmap -p U:53,T:80 |Scan UDP port 53 and TCP port 80 |UDP 53 and TCP 80 — combined scan |
 |nmap -F <target> |Fast scan — top 100 ports only |Fast scan — 100 ports matum | 
 |nmap -r <target> |Scan ports in order (not random) |Ports order-aa scan — randomize panna maata |
-
+---
 
 
 
