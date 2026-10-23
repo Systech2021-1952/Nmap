@@ -208,6 +208,8 @@ Scan Types — -s flags
 - # Port Specification
 Enna ports scan pannanum nu specify panrathu
 
+|Command |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
