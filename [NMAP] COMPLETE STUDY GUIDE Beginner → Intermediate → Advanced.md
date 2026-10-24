@@ -231,14 +231,14 @@ pannurathu ku romba important!
 
 |Command |Description (EN) |Tanglish |
 |---|---|---|
-|nmap -sV <target> Detect service versions on open ports Open ports-la enna service, enna version |
-|nmap -sV --version-intensity 0 Lightest version probe Miga light — fast aana less accurate |
-|nmap -sV --version-intensity 5 Default intensity (0-9) Default intensity — balance |
-|nmap -sV --version-intensity 9 Most aggressive version detection Max intensity — slow aana accurate |
-|nmap -sV --version-light Intensity 2 — lighter scan Quick version check |
-|nmap -sV --version-all Intensity 9 — try all probes Ellaa probes try pannu — thorough check |
-|nmap -sV --version-trace Show version scan activity Version scan steps debug panni paarrukk |
-|nmap -A <target> Aggressive: OS+Version+Script+TracerouteAll-in-one: OS, version, scripts, tracerout |
+|nmap -sV <target> |Detect service versions on open ports Open ports-la enna service, enna version |
+|nmap -sV --version-intensity 0 |Lightest version probe Miga light — fast aana less accurate |
+|nmap -sV --version-intensity 5 |Default intensity (0-9) Default intensity — balance |
+|nmap -sV --version-intensity 9 |Most aggressive version detection Max intensity — slow aana accurate |
+|nmap -sV --version-light |Intensity 2 — lighter scan Quick version check |
+|nmap -sV --version-all |Intensity 9 — try all probes Ellaa probes try pannu — thorough check |
+|nmap -sV --version-trace |Show version scan activity Version scan steps debug panni paarrukk |
+|nmap -A <target> |Aggressive: OS+Version+Script+TracerouteAll-in-one: OS, version, scripts, tracerout |
 
 
 
