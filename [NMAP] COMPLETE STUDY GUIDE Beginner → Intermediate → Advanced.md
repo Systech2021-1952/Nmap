@@ -241,6 +241,7 @@ pannurathu ku romba important!
 |nmap -A <target> |Aggressive: OS+Version+Script+Traceroute |All-in-one: OS, version, scripts, tracerout |
 
 ★ PRO TIP: nmap -sV -sC -O --open → Most useful combo for real pentesting!
+
 → Real pentest-la use pannurathu ku best combo — open ports, versions, OS ellaam oru command-la!
 
 
