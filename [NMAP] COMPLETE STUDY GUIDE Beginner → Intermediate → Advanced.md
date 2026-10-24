@@ -229,7 +229,8 @@ is critical for finding vulnerabilities.
 - → Open ports kandupidichaa aprom enna service run aagudu, enna version use pannudu — intha info vulnerability find
 pannurathu ku romba important!
 
-
+|Command |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
