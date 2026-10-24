@@ -250,7 +250,8 @@ Operating System kandupidikkirathu
 Nmap can fingerprint the Operating System of a remote host by analyzing how the target responds to specially crafted
 TCP/IP packets. This technique is called 'OS Fingerprinting'.
 
-
+→ Remote computer enna OS use pannuduchu (Windows, Linux, Mac) nu Nmap kandupidikkalaam. Special TCP/IP packets
+anuppi response analyze pannum — 'OS Fingerprinting' nu solluvaanga.
 
 
 
