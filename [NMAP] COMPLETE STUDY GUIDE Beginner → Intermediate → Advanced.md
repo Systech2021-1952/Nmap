@@ -240,7 +240,7 @@ pannurathu ku romba important!
 |nmap -sV --version-trace |Show version scan activity |Version scan steps debug panni paarrukk |
 |nmap -A <target> |Aggressive: OS+Version+Script+Traceroute |All-in-one: OS, version, scripts, tracerout |
 
-
+★ PRO TIP: nmap -sV -sC -O --open → Most useful combo for real pentesting!
 
 
 
