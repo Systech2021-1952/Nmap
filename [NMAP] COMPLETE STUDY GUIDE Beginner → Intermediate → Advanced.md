@@ -247,6 +247,8 @@ pannurathu ku romba important!
 ### CHAPTER 7: OS DETECTION
 Operating System kandupidikkirathu
 
+Nmap can fingerprint the Operating System of a remote host by analyzing how the target responds to specially crafted
+TCP/IP packets. This technique is called 'OS Fingerprinting'.
 
 
 
