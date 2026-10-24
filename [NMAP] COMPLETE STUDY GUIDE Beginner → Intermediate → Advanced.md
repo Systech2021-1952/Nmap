@@ -245,7 +245,7 @@ pannurathu ku romba important!
 → Real pentest-la use pannurathu ku best combo — open ports, versions, OS ellaam oru command-la!
 
 ### CHAPTER 7: OS DETECTION
-
+Operating System kandupidikkirathu
 
 
 
