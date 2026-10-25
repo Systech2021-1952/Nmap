@@ -255,7 +255,12 @@ anuppi response analyze pannum — 'OS Fingerprinting' nu solluvaanga.
 
 |Command |Description (EN) |Tanglish |
 |---|---|---|
-
+|nmap -O <target> |Enable OS detection |OS detection enable pannu — needs roo |
+|nmap -O --osscan-limit |Only do OS scan if open+closed TCP port found|Open and closed port both irundhaa matun |
+|map -O --osscan-guess |Guess OS more aggressively |Exact match illana best guess pannidu |
+|nmap -O --max-os-tries 1 |Limit OS detection retries |OS detection attempts 1-ku limit pannu |
+|nmap -A <target> |OS + Version + Scripts + Traceroute |Ellaam oru command-la — all-in-one |
+|nmap -O --fuzzy |Submit guesses if no perfect match |Perfect match illa pattaalum guess panni |
 
 
 
