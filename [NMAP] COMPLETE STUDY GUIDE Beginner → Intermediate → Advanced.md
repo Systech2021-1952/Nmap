@@ -242,7 +242,7 @@ pannurathu ku romba important!
 
 ★ PRO TIP: nmap -sV -sC -O --open → Most useful combo for real pentesting!
 
-→ Real pentest-la use pannurathu ku best combo — open ports, versions, OS ellaam oru command-la!
+#### → Real pentest-la use pannurathu ku best combo — open ports, versions, OS ellaam oru command-la!
 -----
 ### CHAPTER 7: OS DETECTION
 Operating System kandupidikkirathu
