@@ -262,7 +262,8 @@ Nmap can fingerprint the Operating System of a remote host by analyzing how the 
 
 NOTE: OS detection requires at least one open and one closed port on the target. It also requires root/administrator privileges to run.
 
-
+→ OS detection pannum pothu root/admin privilege venum. Target-la oru open port, oru closed port irukkanum — illana
+accurate-aa detect panna mudiyaathu.
 
 
 
