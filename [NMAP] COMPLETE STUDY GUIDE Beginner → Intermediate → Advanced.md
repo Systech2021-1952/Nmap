@@ -273,8 +273,8 @@ NSE (Nmap Scripting Engine) is one of Nmap's most powerful features. It allows u
 → NSE Nmap-oda super power! Lua scripting language-la ezhudha padda scripts use panni vulnerability check, brute force,
 malware detect ellaam pannalathu! Scripts /usr/share/nmap/scripts/ folder-la irukkum.
 
-
-
+## NSE Basic Usage
+NSE use pannurathu — basics
 
 
 
