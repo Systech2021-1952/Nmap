@@ -269,6 +269,7 @@ accurate-aa detect panna mudiyaathu.
 NSE — Advanced Scripting Power
 
 NSE (Nmap Scripting Engine) is one of Nmap's most powerful features. It allows users to write and run scripts that automate complex tasks — from version detection to vulnerability scanning. Scripts are written in Lua and located at /usr/share/nmap/scripts/
+
 → NSE Nmap-oda super power! Lua scripting language-la ezhudha padda scripts use panni vulnerability check, brute force,
 malware detect ellaam pannalathu! Scripts /usr/share/nmap/scripts/ folder-la irukkum.
 
