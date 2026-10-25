@@ -247,11 +247,9 @@ pannurathu ku romba important!
 ### CHAPTER 7: OS DETECTION
 Operating System kandupidikkirathu
 
-Nmap can fingerprint the Operating System of a remote host by analyzing how the target responds to specially crafted
-TCP/IP packets. This technique is called 'OS Fingerprinting'.
+Nmap can fingerprint the Operating System of a remote host by analyzing how the target responds to specially crafted TCP/IP packets. This technique is called 'OS Fingerprinting'.
 
-→ Remote computer enna OS use pannuduchu (Windows, Linux, Mac) nu Nmap kandupidikkalaam. Special TCP/IP packets
-anuppi response analyze pannum — 'OS Fingerprinting' nu solluvaanga.
+→ Remote computer enna OS use pannuduchu (Windows, Linux, Mac) nu Nmap kandupidikkalaam. Special TCP/IP packets anuppi response analyze pannum — 'OS Fingerprinting' nu solluvaanga.
 
 |Command |Description (EN) |Tanglish |
 |---|---|---|
@@ -261,7 +259,7 @@ anuppi response analyze pannum — 'OS Fingerprinting' nu solluvaanga.
 |nmap -O --max-os-tries 1 |Limit OS detection retries |OS detection attempts 1-ku limit pannu |
 |nmap -A <target> |OS + Version + Scripts + Traceroute |Ellaam oru command-la — all-in-one |
 |nmap -O --fuzzy |Submit guesses if no perfect match |Perfect match illa pattaalum guess panni |
-
+NOTE: OS detection requires at least one open and one closed port on the target. It also requires root/administrator privileges to run.
 
 
 
