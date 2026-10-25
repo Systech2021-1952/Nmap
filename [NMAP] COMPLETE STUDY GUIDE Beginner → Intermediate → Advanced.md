@@ -276,6 +276,8 @@ malware detect ellaam pannalathu! Scripts /usr/share/nmap/scripts/ folder-la iru
 ## NSE Basic Usage
 NSE use pannurathu — basics
 
+|Command |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
