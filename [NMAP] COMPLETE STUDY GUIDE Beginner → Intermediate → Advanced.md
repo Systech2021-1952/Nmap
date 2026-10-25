@@ -266,7 +266,7 @@ NOTE: OS detection requires at least one open and one closed port on the target.
 accurate-aa detect panna mudiyaathu.
 
 ### CHAPTER 8: NMAP SCRIPTING ENGINE (NSE)
-
+NSE — Advanced Scripting Power
 
 
 
