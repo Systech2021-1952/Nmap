@@ -279,7 +279,7 @@ NSE use pannurathu — basics
 |Command |Description (EN) |Tanglish |
 |---|---|---|
 |nmap -sC <target> |Run default scripts (safe category) |Default scripts run — safe category |
-
+|nmap --script=default |Same as -sC |-sC ku same — default scripts |
 
 
 
