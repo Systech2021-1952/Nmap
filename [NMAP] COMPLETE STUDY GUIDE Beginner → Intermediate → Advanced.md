@@ -265,7 +265,7 @@ NOTE: OS detection requires at least one open and one closed port on the target.
 → OS detection pannum pothu root/admin privilege venum. Target-la oru open port, oru closed port irukkanum — illana
 accurate-aa detect panna mudiyaathu.
 
-
+### CHAPTER 8: NMAP SCRIPTING ENGINE (NSE)
 
 
 
