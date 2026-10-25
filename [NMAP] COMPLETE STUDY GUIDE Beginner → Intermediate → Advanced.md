@@ -259,6 +259,7 @@ Nmap can fingerprint the Operating System of a remote host by analyzing how the 
 |nmap -O --max-os-tries 1 |Limit OS detection retries |OS detection attempts 1-ku limit pannu |
 |nmap -A <target> |OS + Version + Scripts + Traceroute |Ellaam oru command-la — all-in-one |
 |nmap -O --fuzzy |Submit guesses if no perfect match |Perfect match illa pattaalum guess panni |
+
 NOTE: OS detection requires at least one open and one closed port on the target. It also requires root/administrator privileges to run.
 
 
