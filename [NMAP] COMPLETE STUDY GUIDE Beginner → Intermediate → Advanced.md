@@ -289,6 +289,9 @@ NSE use pannurathu — basics
 |nmap --script=exploit |Exploitation scripts |Exploit scripts — authorized systems matum |
 |nmap --script=discovery |Network discovery scripts |Network discovery automate pannurathu |
 |nmap --script=fuzzer |Fuzzing scripts |Fuzzing use panni vulnerabilities find pannu |
+|nmap --script=dos |DoS testing (dangerous!) |DoS test — very careful! Authorized matum |
+|nmap --script=external |Scripts using external resources |External APIs use panni check pannum |
+|nmap --script=version |Version detection scripts |Version detect panna extra scripts | 
 
 
 
