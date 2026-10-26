@@ -284,6 +284,22 @@ NSE use pannurathu — basics
 |nmap --script=safe <target> |Run only safe scripts |Only safe scripts — target-ku damage illai |
 |nmap --script=intrusive |Run intrusive scripts (careful!) |Intrusive scripts — careful use pannunga! |
 |nmap --script=malware |Detect malware infections |Malware detect pannurathu ku |
+|nmap --script=auth |Test authentication/bypass |Authentication test pannurathu ku |
+|nmap --script=brute |Brute force scripts |Password brute force — authorized matum |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
