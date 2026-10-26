@@ -296,6 +296,8 @@ NSE use pannurathu — basics
 - ### Popular NSE Scripts
 Most used NSE scripts
 
+|Script Name |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
