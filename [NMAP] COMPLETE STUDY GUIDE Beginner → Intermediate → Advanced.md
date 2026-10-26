@@ -286,7 +286,7 @@ NSE use pannurathu — basics
 |nmap --script=malware |Detect malware infections |Malware detect pannurathu ku |
 |nmap --script=auth |Test authentication/bypass |Authentication test pannurathu ku |
 |nmap --script=brute |Brute force scripts |Password brute force — authorized matum |
-
+|nmap --script=exploit |Exploitation scripts |Exploit scripts — authorized systems matum |
 
 
 
