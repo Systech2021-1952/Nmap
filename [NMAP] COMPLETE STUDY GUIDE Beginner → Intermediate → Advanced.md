@@ -298,9 +298,10 @@ Most used NSE scripts
 
 |Script Name |Description (EN) |Tanglish |
 |---|---|---|
-|--script=http-title |Get HTTP page titles |Website title kandupid |
+|--script=http-title |Get HTTP page titles |Website title kandupidi |
 |--script=http-headers |Show HTTP response headers |HTTP headers paarrukku |
 |--script=http-methods |List allowed HTTP methods |HTTP methods list pannum |
+|--script=ssl-cert |Get SSL certificate info |SSL certificate details paarrukku |
 
 
 
