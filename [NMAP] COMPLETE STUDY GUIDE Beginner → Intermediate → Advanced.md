@@ -287,6 +287,9 @@ NSE use pannurathu — basics
 |nmap --script=auth |Test authentication/bypass |Authentication test pannurathu ku |
 |nmap --script=brute |Brute force scripts |Password brute force — authorized matum |
 |nmap --script=exploit |Exploitation scripts |Exploit scripts — authorized systems matum |
+|nmap --script=discovery |Network discovery scripts |Network discovery automate pannurathu |
+|nmap --script=fuzzer |Fuzzing scripts |Fuzzing use panni vulnerabilities find pannu |
+
 
 
 
