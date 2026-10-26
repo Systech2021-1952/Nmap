@@ -281,6 +281,9 @@ NSE use pannurathu — basics
 |nmap -sC <target> |Run default scripts (safe category) |Default scripts run — safe category |
 |nmap --script=default |Same as -sC |-sC ku same — default scripts |
 |nmap --script=vuln <target> |Run all vulnerability scripts |Vulnerability scripts run — CVE check pan |
+|nmap --script=safe <target> |Run only safe scripts |Only safe scripts — target-ku damage illai |
+|nmap --script=intrusive |Run intrusive scripts (careful!) |Intrusive scripts — careful use pannunga! |
+|nmap --script=malware |Detect malware infections |Malware detect pannurathu ku |
 
 
 
