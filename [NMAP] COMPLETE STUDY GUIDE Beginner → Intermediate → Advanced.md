@@ -332,7 +332,7 @@ Firewall Bypass — Advanced Techniques
 → Authorized systems-la matum use pannunga — illegal use pannaa jail poireengaa!
 
 #### Timing Controls
-
+Scan speed control pannurathu
 
 
 
