@@ -321,6 +321,23 @@ Scripts manage pannurathu
 |nmap --script-args user=admin |Pass arguments to scripts |Script-ku arguments kudukku |
 |nmap --script-args-file args.txt |Load script args from file |File-la irundhu args load pannu |
 |nmap --script-help <script> |Get help for a specific script |Script help paarrukku |
+|nmap --script-updatedb |Update script database |Script database update pannu |
+|ls /usr/share/nmap/scripts/ |List all available scripts |Ellaa available scripts list pannu |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
