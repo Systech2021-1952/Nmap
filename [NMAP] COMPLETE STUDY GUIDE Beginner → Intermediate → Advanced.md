@@ -304,7 +304,8 @@ Most used NSE scripts
 |--script=ssl-cert |Get SSL certificate info |SSL certificate details paarrukku |
 |--script=ssl-enum-ciphers |Enumerate SSL ciphers |SSL cipher strength check pannu |
 |--script=smb-vuln-ms17-010 |Check for EternalBlue vuln |WannaCry/EternalBlue vulnerability check! |
-
+|--script=smb-os-discovery |SMB OS detection |SMB use panni OS details paarrukku |
+|--script=ftp-anon |Check FTP anonymous login |FTP anonymous login possible-aa check pann |
 
 
 
