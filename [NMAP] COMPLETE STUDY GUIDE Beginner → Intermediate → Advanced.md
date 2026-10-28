@@ -310,7 +310,8 @@ Most used NSE scripts
 |--script=mysql-info |MySQL server information |MySQL server info kandupidi |
 |--script=dns-brute |DNS brute force subdomains |Subdomains brute force — DNS |
 |--script=whois-domain |WHOIS lookup |Domain WHOIS info kandupidi |
-
+|--script=banner |Grab service banners |Service banners grab pannu |
+|--script=vuln |Run all vuln scripts |Ellaa vulnerability scripts run pannum |
 
 
 
