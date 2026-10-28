@@ -326,7 +326,7 @@ Scripts manage pannurathu
 |nmap --script 'http-*' |Run all HTTP scripts |Ellaa HTTP scripts run pannum |
 -----
 ### CHAPTER 9: EVASION & FIREWALL BYPASS TECHNIQUES
-
+Firewall Bypass — Advanced Techniques
 
 
 
