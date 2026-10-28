@@ -333,6 +333,8 @@ Firewall Bypass — Advanced Techniques
 
 - #### Timing Controls
 Scan speed control pannurathu
+|Flag |Description (EN) |Tanglish |
+|---|---|---|
 
 
 
