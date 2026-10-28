@@ -306,7 +306,8 @@ Most used NSE scripts
 |--script=smb-vuln-ms17-010 |Check for EternalBlue vuln |WannaCry/EternalBlue vulnerability check! |
 |--script=smb-os-discovery |SMB OS detection |SMB use panni OS details paarrukku |
 |--script=ftp-anon |Check FTP anonymous login |FTP anonymous login possible-aa check pann |
-
+|--script=ssh-auth-methods |SSH auth methods check |SSH-la enna auth methods supported nu paarrukku |
+|--script=mysql-info |MySQL server information |MySQL server info kandupidi |
 
 
 
