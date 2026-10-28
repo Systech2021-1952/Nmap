@@ -313,7 +313,7 @@ Most used NSE scripts
 |--script=banner |Grab service banners |Service banners grab pannu |
 |--script=vuln |Run all vuln scripts |Ellaa vulnerability scripts run pannum |
 
-
+- ### Script Arguments & Management
 
 
 
