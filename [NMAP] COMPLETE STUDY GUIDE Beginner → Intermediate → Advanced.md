@@ -323,6 +323,7 @@ Scripts manage pannurathu
 |nmap --script-help <script> |Get help for a specific script |Script help paarrukku |
 |nmap --script-updatedb |Update script database |Script database update pannu |
 |ls /usr/share/nmap/scripts/ |List all available scripts |Ellaa available scripts list pannu |
+|nmap --script 'http-*' |Run all HTTP scripts |Ellaa HTTP scripts run pannum |
 
 
 
