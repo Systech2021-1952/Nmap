@@ -302,6 +302,8 @@ Most used NSE scripts
 |--script=http-headers |Show HTTP response headers |HTTP headers paarrukku |
 |--script=http-methods |List allowed HTTP methods |HTTP methods list pannum |
 |--script=ssl-cert |Get SSL certificate info |SSL certificate details paarrukku |
+|--script=ssl-enum-ciphers |Enumerate SSL ciphers |SSL cipher strength check pannu |
+|--script=smb-vuln-ms17-010 |Check for EternalBlue vuln |WannaCry/EternalBlue vulnerability check! |
 
 
 
