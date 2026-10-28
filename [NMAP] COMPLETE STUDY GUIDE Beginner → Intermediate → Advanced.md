@@ -314,7 +314,7 @@ Most used NSE scripts
 |--script=vuln |Run all vuln scripts |Ellaa vulnerability scripts run pannum |
 
 - ### Script Arguments & Management
-
+Scripts manage pannurathu
 
 
 
