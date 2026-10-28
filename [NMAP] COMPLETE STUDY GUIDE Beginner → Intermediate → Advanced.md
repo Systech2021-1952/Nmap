@@ -328,7 +328,7 @@ Scripts manage pannurathu
 ### CHAPTER 9: EVASION & FIREWALL BYPASS TECHNIQUES
 Firewall Bypass — Advanced Techniques
 
-- #### ■ USE ONLY ON AUTHORIZED SYSTEMS — Illegal use is a criminal offense!
+- #### USE ONLY ON AUTHORIZED SYSTEMS — Illegal use is a criminal offense!
 
 
 
