@@ -317,6 +317,7 @@ Most used NSE scripts
 Scripts manage pannurathu
 
 |Command |Description (EN) |Tanglish |
+|---|---|---|
 |nmap --script-args user=admin |Pass arguments to scripts |Script-ku arguments kudukku |
 |nmap --script-args-file args.txt |Load script args from file |File-la irundhu args load pannu |
 |nmap --script-help <script> |Get help for a specific script |Script help paarrukku |
