@@ -331,7 +331,7 @@ Firewall Bypass — Advanced Techniques
 - #### USE ONLY ON AUTHORIZED SYSTEMS — Illegal use is a criminal offense!
 → Authorized systems-la matum use pannunga — illegal use pannaa jail poireengaa!
 
-#### Timing Controls
+- #### Timing Controls
 Scan speed control pannurathu
 
 
