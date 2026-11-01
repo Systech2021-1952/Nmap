@@ -341,7 +341,7 @@ Scan speed control pannurathu
 |nmap -T3 <target> |Normal — DEFAULT timing |Default timing — balanced |
 |nmap -T4 <target> |Aggressive — faster (reliable networks) |Fast scan — reliable network-la use pannunga |
 |nmap -T5 <target> |Insane — fastest (may miss ports) |Miga fast — ports miss aagalaam, be careful |
-
+|--min-rate 100 |Send minimum 100 packets/sec |Min 100 packets per second anuppu |
 
 
 
