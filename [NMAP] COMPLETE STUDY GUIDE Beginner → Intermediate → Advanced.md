@@ -343,6 +343,7 @@ Scan speed control pannurathu
 |nmap -T5 <target> |Insane — fastest (may miss ports) |Miga fast — ports miss aagalaam, be careful |
 |--min-rate 100 |Send minimum 100 packets/sec |Min 100 packets per second anuppu |
 |--max-rate 500 |Send maximum 500 packets/sec |Max 500 packets per second — limit pannu |
+|--scan-delay 1s |Wait 1 second between probes |Probes-ku naduvula 1 second wait |
 
 
 
