@@ -337,7 +337,7 @@ Scan speed control pannurathu
 |---|---|---|
 |nmap -T0 <target> |Paranoid — slowest, most evasive (5min delay) |Miga slow — IDS evasion ku — 5 min delay |
 |nmap -T1 <target> |Sneaky — slow (15 sec delay) |Slow scan — 15 sec delay per probe |
-
+|nmap -T2 <target> |Polite — slow down to reduce bandwidth |Bandwidth reduce panna slow scan |
 
 
 
