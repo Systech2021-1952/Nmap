@@ -339,6 +339,11 @@ Scan speed control pannurathu
 |nmap -T1 <target> |Sneaky — slow (15 sec delay) |Slow scan — 15 sec delay per probe |
 |nmap -T2 <target> |Polite — slow down to reduce bandwidth |Bandwidth reduce panna slow scan |
 |nmap -T3 <target> |Normal — DEFAULT timing |Default timing — balanced |
+|nmap -T4 <target> |Aggressive — faster (reliable networks) |Fast scan — reliable network-la use pannunga |
+
+
+
+
 
 
 
