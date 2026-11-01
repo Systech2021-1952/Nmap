@@ -357,7 +357,7 @@ IDS/IPS bypass techniques
 |nmap -S 192.168.1.100 <target> |Spoof source IP address |Source IP spoof — trace panna mudiyaathu |
 |nmap -e eth0 <target> |Use specific network interface |Specific interface use pannunga |
 |nmap -g 53 <target> |Use source port 53 (DNS — bypass firewall) |Source port 53 use — DNS port, firewall allow |
-
+|nmap --source-port 80 |Use source port 80 (HTTP) |HTTP port 80 use pannitu scan |
 
 
 
