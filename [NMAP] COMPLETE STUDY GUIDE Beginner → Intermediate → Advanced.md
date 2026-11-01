@@ -355,7 +355,7 @@ IDS/IPS bypass techniques
 |nmap -D RND:10 <target> |10 random decoy IPs |10 fake IP addresses — scan source hide pa |
 |nmap -D 192.168.1.5,ME,RND |Specific + own + random decoys |Specific decoys + own IP + random mix |
 |nmap -S 192.168.1.100 <target> |Spoof source IP address |Source IP spoof — trace panna mudiyaathu |
-
+|nmap -e eth0 <target> |Use specific network interface |Specific interface use pannunga |
 
 
 
