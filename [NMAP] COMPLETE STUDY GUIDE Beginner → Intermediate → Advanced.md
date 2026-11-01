@@ -345,8 +345,8 @@ Scan speed control pannurathu
 |--max-rate 500 |Send maximum 500 packets/sec |Max 500 packets per second — limit pannu |
 |--scan-delay 1s |Wait 1 second between probes |Probes-ku naduvula 1 second wait |
 
-
-
+- ### Evasion Techniques 
+IDS/IPS bypass techniques
 
 
 
