@@ -351,6 +351,16 @@ IDS/IPS bypass techniques
 |---|---|---|
 |nmap -f <target> |Fragment packets (8 bytes) |Packets fragment pannu — 8 bytes each |
 |nmap -ff <target> |Fragment into 16-byte chunks |16 bytes chunk-la fragment pannu |
+|nmap --mtu 24 <target> |Set custom MTU size |Custom MTU size set pannunga — multiple o |
+
+
+
+
+
+
+
+
+
 
 
 
