@@ -347,6 +347,7 @@ Scan speed control pannurathu
 
 - ### Evasion Techniques 
 IDS/IPS bypass techniques
+|Command |Description (EN) |Tanglish |
 
 
 
