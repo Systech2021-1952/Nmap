@@ -349,7 +349,7 @@ Scan speed control pannurathu
 IDS/IPS bypass techniques
 |Command |Description (EN) |Tanglish |
 |---|---|---|
-
+|nmap -f <target> |Fragment packets (8 bytes) |Packets fragment pannu — 8 bytes each |
 
 
 
