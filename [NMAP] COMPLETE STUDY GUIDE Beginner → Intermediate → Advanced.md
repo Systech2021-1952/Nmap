@@ -359,6 +359,11 @@ IDS/IPS bypass techniques
 |nmap -g 53 <target> |Use source port 53 (DNS — bypass firewall) |Source port 53 use — DNS port, firewall allow |
 |nmap --source-port 80 |Use source port 80 (HTTP) |HTTP port 80 use pannitu scan |
 |nmap --data-length 25 |Append 25 random bytes to packets |Packets-ku extra random bytes add pannu |
+|nmap --ip-options <options> |Custom IP options in packets |Custom IP header options set pannunga |
+
+
+
+
 
 
 
