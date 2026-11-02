@@ -363,7 +363,7 @@ IDS/IPS bypass techniques
 |nmap --proxies http://proxy:8080 |Route through HTTP proxy |Proxy through route pannunga |
 
 ### CHAPTER 10: OUTPUT & REPORTING
-
+Results Save pannurathu — Output Formats
 
 
 
