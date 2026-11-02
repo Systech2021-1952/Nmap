@@ -365,7 +365,7 @@ IDS/IPS bypass techniques
 ### CHAPTER 10: OUTPUT & REPORTING
 Results Save pannurathu — Output Formats
 
-
+Nmap supports multiple output formats for saving results. Always save your scan results for documentation, analysis, and reporting.
 
 
 
