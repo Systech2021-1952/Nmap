@@ -358,6 +358,7 @@ IDS/IPS bypass techniques
 |nmap --data-length 25 |Append 25 random bytes to packets |Packets-ku extra random bytes add pannu |
 |nmap --ip-options <options> |Custom IP options in packets |Custom IP header options set pannunga |
 |nmap --ttl 128 <target> |Set custom IP TTL value |Custom TTL set — packet behavior change |
+|nmap --randomize-hosts |Randomize target host scan order |Hosts order random-aa scan pannu |
 
 
 
