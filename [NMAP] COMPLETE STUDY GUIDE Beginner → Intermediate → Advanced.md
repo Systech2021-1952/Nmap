@@ -362,7 +362,7 @@ IDS/IPS bypass techniques
 |nmap --badsum <target> |Send bad TCP/UDP checksums |Invalid checksum — IDS test panna use pannu |
 |nmap --proxies http://proxy:8080 |Route through HTTP proxy |Proxy through route pannunga |
 
-
+### CHAPTER 10: OUTPUT & REPORTING
 
 
 
