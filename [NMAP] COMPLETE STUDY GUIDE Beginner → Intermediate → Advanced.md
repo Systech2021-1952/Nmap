@@ -360,7 +360,7 @@ IDS/IPS bypass techniques
 |nmap --ttl 128 <target> |Set custom IP TTL value |Custom TTL set — packet behavior change |
 |nmap --randomize-hosts |Randomize target host scan order |Hosts order random-aa scan pannu |
 |nmap --badsum <target> |Send bad TCP/UDP checksums |Invalid checksum — IDS test panna use pannu |
-
+|nmap --proxies http://proxy:8080 |Route through HTTP proxy |Proxy through route pannunga |
 
 
 
