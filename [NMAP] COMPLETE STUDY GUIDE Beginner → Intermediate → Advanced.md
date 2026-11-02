@@ -359,6 +359,7 @@ IDS/IPS bypass techniques
 |nmap --ip-options <options> |Custom IP options in packets |Custom IP header options set pannunga |
 |nmap --ttl 128 <target> |Set custom IP TTL value |Custom TTL set — packet behavior change |
 |nmap --randomize-hosts |Randomize target host scan order |Hosts order random-aa scan pannu |
+|nmap --badsum <target> |Send bad TCP/UDP checksums |Invalid checksum — IDS test panna use pannu |
 
 
 
