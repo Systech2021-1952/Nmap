@@ -374,6 +374,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap -oX output.xml <target> |XML output |XML format-la save — parse panna easy |
 |nmap -oG output.gnmap |Grepable output format |Grep panna easy-aa format-la save |
 |nmap -oA output <target> |Save in all 3 formats at once |Moonnu formats-la same time save — best p |
+|nmap -oS output.txt |Script kiddie output (fun format) |Fun format — letters to numbers change |
 
 
 
