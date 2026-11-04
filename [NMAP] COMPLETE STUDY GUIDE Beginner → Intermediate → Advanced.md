@@ -370,4 +370,30 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 → Nmap results pala formats-la save panalathu. Pentest panna pothu results always save pannunga — evidence-ku venum!
 |Command |Description (EN) |Tanglish |
 |---|---|---|
+|nmap -oN output.txt <target> |Normal text output |Normal text file-la save pannu |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
