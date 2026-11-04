@@ -377,7 +377,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap -oS output.txt |Script kiddie output (fun format) |Fun format — letters to numbers change |
 |nmap -oJ output.json |JSON output (with -oX + convert) |JSON-ku convert panna XML use pannunga |
 |nmap -v <target> |Verbose — show more details |More details show pannum — verbose mode |
-
+|nmap -vv <target> |Very verbose |More more details — extra verbose |
 
 
 
