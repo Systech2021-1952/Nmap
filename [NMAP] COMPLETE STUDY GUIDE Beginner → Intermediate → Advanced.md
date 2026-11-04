@@ -371,7 +371,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |Command |Description (EN) |Tanglish |
 |---|---|---|
 |nmap -oN output.txt <target> |Normal text output |Normal text file-la save pannu |
-
+|nmap -oX output.xml <target> |XML output |XML format-la save — parse panna easy |
 
 
 
