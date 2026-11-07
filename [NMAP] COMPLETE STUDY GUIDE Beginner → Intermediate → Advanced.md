@@ -380,6 +380,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap -vv <target> |Very verbose |More more details — extra verbose |
 |nmap -d <target> |Debug mode |Debug info show pannum |
 |nmap -dd <target> |More debug info |Extra debug — development/troubleshoot ku |
+|nmap --reason <target> |Show reason for port state |Enna karanam-la port open/closed nu show |
 
 
 
