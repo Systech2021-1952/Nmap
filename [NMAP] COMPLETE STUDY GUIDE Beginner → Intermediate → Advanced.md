@@ -379,7 +379,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap -v <target> |Verbose — show more details |More details show pannum — verbose mode |
 |nmap -vv <target> |Very verbose |More more details — extra verbose |
 |nmap -d <target> |Debug mode |Debug info show pannum |
-
+|nmap -dd <target> |More debug info |Extra debug — development/troubleshoot ku |
 
 
 
