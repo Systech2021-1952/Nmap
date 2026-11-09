@@ -387,7 +387,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap --stats-every 10s |Show stats every 10 seconds |Every 10 sec progress stats show pannum |
 -----
 ### ★ QUICK REFERENCE CARD — Most Used Commands
-
+→ Nmap-la most use pannra commands ellaam oru pagela — Bookmark panni vechukkuunga!
 
 
 
