@@ -406,6 +406,7 @@ Most important 20 commands
 |10 |nmap -sS -p- -T4 <target> |Full stealth port scan |
 |11 |nmap --script=smb-vuln-ms17-010 |EternalBlue check |
 |12 |nmap --script=http-title -p80,443 |Web server titles |
+|13 |nmap -sV --version-all <target> |Max version detection |
 
 
 
