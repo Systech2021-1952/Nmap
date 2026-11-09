@@ -402,6 +402,7 @@ Most important 20 commands
 |6 |nmap -sU --top-ports 100 <target> |Top UDP ports scan |
 |7 |nmap -T4 -F <target> |Fast scan | 
 |8 |nmap -oA results <target> |Save in all formats |
+|9 |nmap -D RND:10 <target> |Decoy scan |
 
 
 
