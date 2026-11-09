@@ -390,7 +390,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 → Nmap-la most use pannra commands ellaam oru pagela — Bookmark panni vechukkuunga!
 
 #### ■ ■ TOP 20 MOST USED NMAP COMMANDS
-
+Most important 20 commands
 
 
 
