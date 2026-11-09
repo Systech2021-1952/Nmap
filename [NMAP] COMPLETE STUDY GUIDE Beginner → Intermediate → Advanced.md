@@ -403,7 +403,7 @@ Most important 20 commands
 |7 |nmap -T4 -F <target> |Fast scan | 
 |8 |nmap -oA results <target> |Save in all formats |
 |9 |nmap -D RND:10 <target> |Decoy scan |
-
+|10 |nmap -sS -p- -T4 <target> |Full stealth port scan |
 
 
 
