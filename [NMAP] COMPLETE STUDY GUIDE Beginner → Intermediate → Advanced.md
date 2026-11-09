@@ -400,7 +400,7 @@ Most important 20 commands
 |4 |nmap -A <target> |Aggressive all info scan |
 |5 |nmap --script=vuln <target> |Vulnerability check |
 |6 |nmap -sU --top-ports 100 <target> |Top UDP ports scan |
-
+|7 |nmap -T4 -F <target> |Fast scan |
 
 
 
