@@ -383,7 +383,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap --reason <target> |Show reason for port state |Enna karanam-la port open/closed nu show |
 |nmap --open <target> |Show only open ports |Closed/filtered skip — only open ports show |
 |nmap --packet-trace |Show all packets sent/received |Ellaa packets trace — network analysis ku |
-
+|nmap --resume output.gnmap |Resume interrupted scan |Interrupted scan resume pannu — grepable f |
 
 
 
