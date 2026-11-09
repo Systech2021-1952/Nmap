@@ -405,6 +405,7 @@ Most important 20 commands
 |9 |nmap -D RND:10 <target> |Decoy scan |
 |10 |nmap -sS -p- -T4 <target> |Full stealth port scan |
 |11 |nmap --script=smb-vuln-ms17-010 |EternalBlue check |
+|12 |nmap --script=http-title -p80,443 |Web server titles |
 
 
 
