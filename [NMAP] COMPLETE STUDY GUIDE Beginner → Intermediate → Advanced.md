@@ -394,7 +394,7 @@ Most important 20 commands
 
 |# |Command |Use Case |
 |---|---|---|
-
+|1 |nmap -sV -sC -O --open <target> |All-in-one pentest starter |
 
 
 
