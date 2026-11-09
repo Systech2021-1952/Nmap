@@ -410,7 +410,7 @@ Most important 20 commands
 |14 |nmap -Pn -p 80,443 <target> |Scan without ping |
 |15 |nmap -f -T0 <target> |Slow fragmented scan |
 |16 |nmap --script=ftp-anon -p21 |FTP anonymous login |
-
+|17 |nmap --script=ssl-cert -p443 |SSL certificate info|
 
 
 
