@@ -1,4 +1,4 @@
-<div align="center">
+e<div align="center">
 
 # [ NMAP ]
 
@@ -413,7 +413,7 @@ Most important 20 commands
 |17 |nmap --script=ssl-cert -p443 |SSL certificate info|
 |18 |nmap -sV --script=banner <target> |Banner grabbing |
 |19 |nmap -iL hosts.txt -oA out |Scan from file, save all |
-
+|20 |nmap --script=auth <target> |Auth bypass check |
 
 
 
