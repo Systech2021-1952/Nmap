@@ -409,6 +409,7 @@ Most important 20 commands
 |13 |nmap -sV --version-all <target> |Max version detection |
 |14 |nmap -Pn -p 80,443 <target> |Scan without ping |
 |15 |nmap -f -T0 <target> |Slow fragmented scan |
+|16 |nmap --script=ftp-anon -p21 |FTP anonymous login |
 
 
 
