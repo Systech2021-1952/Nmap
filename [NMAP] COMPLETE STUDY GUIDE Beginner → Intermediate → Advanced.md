@@ -408,7 +408,7 @@ Most important 20 commands
 |12 |nmap --script=http-title -p80,443 |Web server titles |
 |13 |nmap -sV --version-all <target> |Max version detection |
 |14 |nmap -Pn -p 80,443 <target> |Scan without ping |
-
+|15 |nmap -f -T0 <target> |Slow fragmented scan |
 
 
 
