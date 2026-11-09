@@ -386,7 +386,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 |nmap --resume output.gnmap |Resume interrupted scan |Interrupted scan resume pannu — grepable f |
 |nmap --stats-every 10s |Show stats every 10 seconds |Every 10 sec progress stats show pannum |
 -----
-
+### ★ QUICK REFERENCE CARD — Most Used Commands
 
 
 
