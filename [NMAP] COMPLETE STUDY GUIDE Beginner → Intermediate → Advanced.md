@@ -411,6 +411,7 @@ Most important 20 commands
 |15 |nmap -f -T0 <target> |Slow fragmented scan |
 |16 |nmap --script=ftp-anon -p21 |FTP anonymous login |
 |17 |nmap --script=ssl-cert -p443 |SSL certificate info|
+|18 |nmap -sV --script=banner <target> |Banner grabbing |
 
 
 
