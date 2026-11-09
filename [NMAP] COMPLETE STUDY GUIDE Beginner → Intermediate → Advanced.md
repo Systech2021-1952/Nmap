@@ -393,7 +393,7 @@ Nmap supports multiple output formats for saving results. Always save your scan 
 Most important 20 commands
 
 |# |Command |Use Case |
-
+|---|---|---|
 
 
 
