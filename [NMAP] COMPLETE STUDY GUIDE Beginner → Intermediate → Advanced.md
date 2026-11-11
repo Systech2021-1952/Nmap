@@ -421,7 +421,3 @@ Real situations-la use pannra scan examples
 
 
 
-
-
-
-
