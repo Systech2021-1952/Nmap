@@ -415,6 +415,7 @@ Most important 20 commands
 |19 |nmap -iL hosts.txt -oA out |Scan from file, save all |
 |20 |nmap --script=auth <target> |Auth bypass check |
 
+### ■  REAL-WORLD COMBINED SCAN EXAMPLES
 
 
 
