@@ -416,7 +416,7 @@ Most important 20 commands
 |20 |nmap --script=auth <target> |Auth bypass check |
 
 ### ■  REAL-WORLD COMBINED SCAN EXAMPLES
-
+Real situations-la use pannra scan examples
 
 
 
