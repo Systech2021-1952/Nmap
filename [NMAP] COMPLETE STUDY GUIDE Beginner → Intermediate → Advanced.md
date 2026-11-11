@@ -425,5 +425,6 @@ Complete pentest: Stealth SYN scan + versions + default scripts + OS + Aggressiv
 
 - ### Stealthy Recon Scan
 $ nmap -sS -T1 -f -D RND:5 -p- --open
+
 Stealth recon: Slow + fragment + 5 decoys + all ports
 
