@@ -419,5 +419,7 @@ Most important 20 commands
 Real situations-la use pannra scan examples
 
 Comprehensive Pentest Scan
+$ nmap -sS -sV -sC -O -A -T4 --open -oA full_scan
+Complete pentest: Stealth SYN scan + versions + default scripts + OS + Aggressive + save all
 
 
