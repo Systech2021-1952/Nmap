@@ -418,6 +418,6 @@ Most important 20 commands
 ### ■  REAL-WORLD COMBINED SCAN EXAMPLES
 Real situations-la use pannra scan examples
 
-
+Comprehensive Pentest Scan
 
 
