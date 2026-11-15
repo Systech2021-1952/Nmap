@@ -429,7 +429,7 @@ $ nmap -sS -T1 -f -D RND:5 -p- --open
 Stealth recon: Slow + fragment + 5 decoys + all ports
 
 - ### Quick Network Discover
-
+$ nmap -sn -PR 192.168.1.0/24 -oG hosts.txt
 
 
 
