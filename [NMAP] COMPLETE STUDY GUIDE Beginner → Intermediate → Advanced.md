@@ -428,3 +428,21 @@ $ nmap -sS -T1 -f -D RND:5 -p- --open
 
 Stealth recon: Slow + fragment + 5 decoys + all ports
 
+- ### Quick Network Discover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
