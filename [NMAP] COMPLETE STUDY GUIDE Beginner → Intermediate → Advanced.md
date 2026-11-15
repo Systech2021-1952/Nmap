@@ -439,8 +439,9 @@ $ nmap -p 80,443,8080,8443 -sV --script='http-*'
 All HTTP scripts on web ports + version detection
 
 - ### Full UDP Scan
+$ nmap -sU -sV --top-ports 200 -T4
 
-
+Top 200 UDP ports + version — important for DNS/SNMP
 
 
 
