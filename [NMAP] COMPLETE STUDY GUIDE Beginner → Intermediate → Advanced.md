@@ -434,7 +434,7 @@ $ nmap -sn -PR 192.168.1.0/24 -oG hosts.txt
 Fast LAN discovery using ARP, save grepable
 
 - ### Web Server Full Audit
-
+$ nmap -p 80,443,8080,8443 -sV --script='http-*'
 
 
 
