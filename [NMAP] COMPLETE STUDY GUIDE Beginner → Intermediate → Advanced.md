@@ -436,7 +436,7 @@ Fast LAN discovery using ARP, save grepable
 - ### Web Server Full Audit
 $ nmap -p 80,443,8080,8443 -sV --script='http-*'
 
-
+All HTTP scripts on web ports + version detection
 
 
 
