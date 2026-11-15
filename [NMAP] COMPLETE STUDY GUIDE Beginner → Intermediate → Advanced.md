@@ -433,7 +433,7 @@ $ nmap -sn -PR 192.168.1.0/24 -oG hosts.txt
 
 Fast LAN discovery using ARP, save grepable
 
-
+- ### Web Server Full Audit
 
 
 
