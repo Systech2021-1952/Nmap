@@ -475,4 +475,5 @@ Ellaa important flags — oru pagela
 |-sA |ACK Scan |Firewall mapping |
 |-sN |Null Scan |No flags — stealth |
 |-sF |FIN Scan |FIN flag only |
+|-sX |Xmas Scan |FIN+PSH+URG flags |
 
