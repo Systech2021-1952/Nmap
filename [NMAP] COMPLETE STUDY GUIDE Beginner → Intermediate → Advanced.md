@@ -470,6 +470,7 @@ Ellaa important flags — oru pagela
 |Flag |Full Form |Meaning |
 |---|---|---|
 |-sS |SYN Scan |Stealth half-open scan |
+|-sT |TCP Connect |Full connection scan |
 
 
 
