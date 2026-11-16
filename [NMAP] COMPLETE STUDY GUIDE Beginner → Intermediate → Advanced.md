@@ -467,7 +467,7 @@ MySQL, PostgreSQL, MSSQL, Oracle check
 - ### COMPLETE FLAGS CHEAT SHEET
 Ellaa important flags — oru pagela
 
-
+|Flag |Full Form |Meaning |
 
 
 
