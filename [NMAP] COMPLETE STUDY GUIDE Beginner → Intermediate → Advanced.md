@@ -473,6 +473,6 @@ Ellaa important flags — oru pagela
 |-sT |TCP Connect |Full connection scan |
 |-sU |UDP Scan |UDP ports scan |
 |-sA |ACK Scan |Firewall mapping |
-
+|-sN |Null Scan |No flags — stealth |
 
 
