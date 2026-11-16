@@ -451,7 +451,7 @@ All vuln scripts + safe scripts on all ports
 - ### SMB Vulnerability Check
 $ nmap -p 445 --script=smb-vuln-*
 
-
+All SMB vulnerability scripts — EternalBlue, MS08-067 etc
 
 
 
