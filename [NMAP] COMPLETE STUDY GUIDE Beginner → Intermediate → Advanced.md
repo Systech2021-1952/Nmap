@@ -454,7 +454,7 @@ $ nmap -p 445 --script=smb-vuln-*
 All SMB vulnerability scripts — EternalBlue, MS08-067 etc
 
 - ### Database Discovery
-
+$ nmap -p 445 --script=smb-vuln-*
 
 
 
