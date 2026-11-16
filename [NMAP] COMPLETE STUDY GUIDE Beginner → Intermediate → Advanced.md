@@ -476,4 +476,28 @@ Ellaa important flags — oru pagela
 |-sN |Null Scan |No flags — stealth |
 |-sF |FIN Scan |FIN flag only |
 |-sX |Xmas Scan |FIN+PSH+URG flags |
+|-sV |Version |Service version detect |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
