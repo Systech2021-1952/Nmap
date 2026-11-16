@@ -446,5 +446,30 @@ Top 200 UDP ports + version — important for DNS/SNMP
 - ### Vulnerability Assessment
 $ nmap -sV --script=vuln,safe -p- -T4
 
+All vuln scripts + safe scripts on all ports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
