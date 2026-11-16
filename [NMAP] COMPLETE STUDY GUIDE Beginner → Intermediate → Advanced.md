@@ -472,7 +472,7 @@ Ellaa important flags — oru pagela
 |-sS |SYN Scan |Stealth half-open scan |
 |-sT |TCP Connect |Full connection scan |
 |-sU |UDP Scan |UDP ports scan |
-
+|-sA |ACK Scan |Firewall mapping |
 
 
 
