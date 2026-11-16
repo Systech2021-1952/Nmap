@@ -449,7 +449,7 @@ $ nmap -sV --script=vuln,safe -p- -T4
 All vuln scripts + safe scripts on all ports
 
 - ### SMB Vulnerability Check
-
+$ nmap -p 445 --script=smb-vuln-*
 
 
 
