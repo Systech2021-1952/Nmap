@@ -468,7 +468,7 @@ MySQL, PostgreSQL, MSSQL, Oracle check
 Ellaa important flags — oru pagela
 
 |Flag |Full Form |Meaning |
-
+|---|---|---|
 
 
 
