@@ -479,7 +479,7 @@ Ellaa important flags — oru pagela
 |-sV |Version |Service version detect |
 |-sC |Scripts Default NSE scripts |
 |-O  |OS Detect |Operating system detect |
-
+|-A |Aggressive |OS+Ver+Script+Trace |
 
 
 
