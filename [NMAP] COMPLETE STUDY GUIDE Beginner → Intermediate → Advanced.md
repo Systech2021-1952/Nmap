@@ -477,7 +477,7 @@ Ellaa important flags — oru pagela
 |-sF |FIN Scan |FIN flag only |
 |-sX |Xmas Scan |FIN+PSH+URG flags |
 |-sV |Version |Service version detect |
-
+|-sC |Scripts Default NSE scripts |
 
 
 
