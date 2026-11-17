@@ -482,6 +482,7 @@ Ellaa important flags — oru pagela
 |-A |Aggressive |OS+Ver+Script+Trace |
 |-p |Ports |Specify ports |
 |-p- |All Ports |All 65535 ports |
+|-F |Fast |Top 100 ports |
 
 
 
