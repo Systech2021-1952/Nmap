@@ -481,7 +481,7 @@ Ellaa important flags — oru pagela
 |-O  |OS Detect |Operating system detect |
 |-A |Aggressive |OS+Ver+Script+Trace |
 |-p |Ports |Specify ports |
-
+|-p- |All Ports |All 65535 ports |
 
 
 
