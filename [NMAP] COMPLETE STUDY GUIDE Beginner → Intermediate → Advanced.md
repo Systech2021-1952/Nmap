@@ -483,7 +483,7 @@ Ellaa important flags — oru pagela
 |-p |Ports |Specify ports |
 |-p- |All Ports |All 65535 ports |
 |-F |Fast |Top 100 ports |
-
+|-T0..T5 |Timing |Speed control |
 
 
 
