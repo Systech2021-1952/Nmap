@@ -478,7 +478,7 @@ Ellaa important flags — oru pagela
 |-sX |Xmas Scan |FIN+PSH+URG flags |
 |-sV |Version |Service version detect |
 |-sC |Scripts Default NSE scripts |
-|-O  |OS Detect Operating system detect |
+|-O  |OS Detect |Operating system detect |
 
 
 
