@@ -480,7 +480,7 @@ Ellaa important flags — oru pagela
 |-sC |Scripts Default NSE scripts |
 |-O  |OS Detect |Operating system detect |
 |-A |Aggressive |OS+Ver+Script+Trace |
-
+|-p |Ports |Specify ports |
 
 
 
