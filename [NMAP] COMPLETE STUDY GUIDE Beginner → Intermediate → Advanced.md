@@ -485,7 +485,7 @@ Ellaa important flags — oru pagela
 |-F |Fast |Top 100 ports |
 |-T0..T5 |Timing |Speed control |
 |-Pn |No Ping |Skip host discovery
-
+|-n |No DNS |Skip DNS resolve |
 
 
 
