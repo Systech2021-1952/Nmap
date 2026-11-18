@@ -493,7 +493,7 @@ Ellaa important flags — oru pagela
 |-oX |XML Out |XML file output |
 |-oG |Grep Out |Grepable output |
 |-oA |All Out |All 3 formats |
-
+|--open |Open Only |Show open ports only |
 
 
 
