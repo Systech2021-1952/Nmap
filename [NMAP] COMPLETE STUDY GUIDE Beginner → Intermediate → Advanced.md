@@ -491,8 +491,8 @@ Ellaa important flags — oru pagela
 |-v |Verbose |More output |
 |-oN |Normal Out |Text file output |
 |-oX |XML Out |XML file output |
-
-
+|-oG |Grep Out |Grepable output |
+ 
 
 
 
