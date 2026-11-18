@@ -490,7 +490,7 @@ Ellaa important flags — oru pagela
 |-f |Fragment |Packet fragmentation |
 |-v |Verbose |More output |
 |-oN |Normal Out |Text file output |
-
+|-oX |XML Out |XML file output |
 
 
 
