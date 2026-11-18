@@ -486,7 +486,7 @@ Ellaa important flags — oru pagela
 |-T0..T5 |Timing |Speed control |
 |-Pn |No Ping |Skip host discovery
 |-n |No DNS |Skip DNS resolve |
-
+|-D |Decoy |Fake source IPs |
 
 
 
