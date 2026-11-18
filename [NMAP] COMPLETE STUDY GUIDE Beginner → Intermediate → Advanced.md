@@ -487,8 +487,7 @@ Ellaa important flags — oru pagela
 |-Pn |No Ping |Skip host discovery
 |-n |No DNS |Skip DNS resolve |
 |-D |Decoy |Fake source IPs |
-
-
+|-f |Fragment |Packet fragmentation |
 
 
 
