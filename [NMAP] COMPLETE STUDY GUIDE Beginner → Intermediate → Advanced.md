@@ -489,7 +489,7 @@ Ellaa important flags — oru pagela
 |-D |Decoy |Fake source IPs |
 |-f |Fragment |Packet fragmentation |
 |-v |Verbose |More output |
-
+|-oN |Normal Out |Text file output |
 
 
 
