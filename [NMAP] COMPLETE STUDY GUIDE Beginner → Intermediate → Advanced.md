@@ -494,7 +494,7 @@ Ellaa important flags — oru pagela
 |-oG |Grep Out |Grepable output |
 |-oA |All Out |All 3 formats |
 |--open |Open Only |Show open ports only |
-
+|-iL |Input List |Targets from file |
 
 
 
