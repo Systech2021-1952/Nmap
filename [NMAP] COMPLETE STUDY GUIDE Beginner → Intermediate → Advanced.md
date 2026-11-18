@@ -492,7 +492,7 @@ Ellaa important flags — oru pagela
 |-oN |Normal Out |Text file output |
 |-oX |XML Out |XML file output |
 |-oG |Grep Out |Grepable output |
- 
+|-oA |All Out |All 3 formats |
 
 
 
