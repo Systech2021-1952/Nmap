@@ -497,6 +497,33 @@ Ellaa important flags — oru pagela
 |-iL |Input List |Targets from file |
 |-g |Source Port |Specify source port |
 |--script |NSE Script |Run NSE scripts |
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
