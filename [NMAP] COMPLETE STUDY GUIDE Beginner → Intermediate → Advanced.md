@@ -496,7 +496,7 @@ Ellaa important flags — oru pagela
 |--open |Open Only |Show open ports only |
 |-iL |Input List |Targets from file |
 |-g |Source Port |Specify source port |
-
+|--script |NSE Script |Run NSE scripts |
 
 
 
