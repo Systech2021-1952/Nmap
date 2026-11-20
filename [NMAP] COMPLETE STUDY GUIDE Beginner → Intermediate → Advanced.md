@@ -502,7 +502,7 @@ Ellaa important flags — oru pagela
 IMPORTANT: Always use Nmap ethically and legally!
 
 ✓ LEGAL: Scan only systems you OWN or have WRITTEN PERMISSION to scan
-
+→ Ungalukku own-aa irukkara system-a matum scan pannunga ya ungalukku permission kuduthaanga-nu!
 
 
 
