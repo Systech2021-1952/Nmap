@@ -501,7 +501,7 @@ Ellaa important flags — oru pagela
 ### ETHICS & LEGAL NOTICE
 IMPORTANT: Always use Nmap ethically and legally!
 
-
+✓ LEGAL: Scan only systems you OWN or have WRITTEN PERMISSION to scan
 
 
 
