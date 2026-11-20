@@ -516,7 +516,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 ✗ ILLEGAL: Scanning someone else's network/system without permission is a CRIME.
 → Permission illama scan pannunaa — criminal offense! Jail poireengaa!
 
-
+✗ ILLEGAL: Using Nmap to find vulnerabilities and exploit systems is illegal hacking.
 
 
 
