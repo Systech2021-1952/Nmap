@@ -513,6 +513,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 → CTF competitions-la freely use pannunga — designed for this purpose!
 
+✗ ILLEGAL: Scanning someone else's network/system without permission is a CRIME.
 
 
 
