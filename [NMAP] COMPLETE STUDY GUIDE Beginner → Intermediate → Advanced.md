@@ -509,8 +509,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 → Home lab, virtual machines-la practice panunga — completely legal!
 
-→ Home lab, virtual machines-la practice panunga — completely legal!
-
+✓ LEGAL: Use in CTF (Capture The Flag) competitions — they are designed for this.
 
 
 
