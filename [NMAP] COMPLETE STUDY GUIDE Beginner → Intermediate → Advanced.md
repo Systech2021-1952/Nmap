@@ -519,7 +519,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 ✗ ILLEGAL: Using Nmap to find vulnerabilities and exploit systems is illegal hacking.
 
-
+→ Vulnerability kandupidichitu exploit pannunaa — illegal hacking — serious crime!
 
 
 
