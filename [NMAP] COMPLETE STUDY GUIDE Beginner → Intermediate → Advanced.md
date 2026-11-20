@@ -511,7 +511,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 ✓ LEGAL: Use in CTF (Capture The Flag) competitions — they are designed for this.
 
-
+→ CTF competitions-la freely use pannunga — designed for this purpose!
 
 
 
