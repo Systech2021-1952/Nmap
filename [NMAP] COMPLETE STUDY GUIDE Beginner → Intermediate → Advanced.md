@@ -499,7 +499,7 @@ Ellaa important flags — oru pagela
 |--script |NSE Script |Run NSE scripts |
 -----
 ### ETHICS & LEGAL NOTICE
-
+IMPORTANT: Always use Nmap ethically and legally!
 
 
 
