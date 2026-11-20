@@ -506,6 +506,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 → Ungalukku own-aa irukkara system-a matum scan pannunga ya ungalukku permission kuduthaanga-nu!
 
 ✓ LEGAL: Use Nmap for learning on your own home lab or VMs.
+
 → Home lab, virtual machines-la practice panunga — completely legal!
 
 → Home lab, virtual machines-la practice panunga — completely legal!
