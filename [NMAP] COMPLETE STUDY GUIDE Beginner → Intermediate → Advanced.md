@@ -545,7 +545,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 → Web application vulnerability practice-ku
 
-
+■ Nmap Official Docs: nmap.org/book/man.html — official manual
 
 
 
