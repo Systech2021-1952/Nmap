@@ -537,7 +537,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 → Beginner-ku perfect — step by step guided labs
 
-
+■ VulnHub: Download vulnerable VMs for local practice
 
 
 
