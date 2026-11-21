@@ -547,7 +547,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 ■ Nmap Official Docs: nmap.org/book/man.html — official manual
 
-
+→ Official documentation — most accurate source
 
 
 
