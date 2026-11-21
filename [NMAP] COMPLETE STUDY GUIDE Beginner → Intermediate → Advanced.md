@@ -535,7 +535,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 ■ TryHackMe: Beginner-friendly cybersecurity learning platform
 
-
+→ Beginner-ku perfect — step by step guided labs
 
 
 
