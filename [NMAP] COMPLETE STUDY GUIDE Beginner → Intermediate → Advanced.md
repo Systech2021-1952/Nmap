@@ -532,3 +532,26 @@ IMPORTANT: Always use Nmap ethically and legally!
 ■ HackTheBox (HTB): Online pentesting labs — legal practice
 
 → Online legal hacking practice — beginner to advanced
+
+■ TryHackMe: Beginner-friendly cybersecurity learning platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
