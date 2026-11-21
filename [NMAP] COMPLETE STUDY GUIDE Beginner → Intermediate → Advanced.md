@@ -543,7 +543,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 ■ DVWA: Damn Vulnerable Web App — web app testing
 
-
+→ Web application vulnerability practice-ku
 
 
 
