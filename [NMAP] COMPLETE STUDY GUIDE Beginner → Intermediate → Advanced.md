@@ -541,7 +541,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 → Local practice-ku vulnerable VMs download pannu
 
-
+■ DVWA: Damn Vulnerable Web App — web app testing
 
 
 
