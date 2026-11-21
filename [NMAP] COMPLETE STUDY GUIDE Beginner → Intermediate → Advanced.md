@@ -561,6 +561,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 (What you've learned is a handful of dirt — What remains to learn is the size of the world)
 
  Keep practicing ethically. Happy Hacking! ■
+ 
  → Practice panniko, ethical-aa irruko, nalla ethical hacker aago!
  
 </div>
