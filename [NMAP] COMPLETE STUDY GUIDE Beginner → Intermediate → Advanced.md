@@ -539,7 +539,7 @@ IMPORTANT: Always use Nmap ethically and legally!
 
 ■ VulnHub: Download vulnerable VMs for local practice
 
-
+→ Local practice-ku vulnerable VMs download pannu
 
 
 
