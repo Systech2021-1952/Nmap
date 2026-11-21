@@ -528,6 +528,6 @@ IMPORTANT: Always use Nmap ethically and legally!
 ■ Metasploitable 2/3: Intentionally vulnerable VM — perfect for Nmap practice
 → Practice-ku best VM — all vulnerabilities intentionally included
 
-
+■ HackTheBox (HTB): Online pentesting labs — legal practice
 
 
