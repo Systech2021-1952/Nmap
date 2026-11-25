@@ -58,7 +58,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Firewall bypass techniques
 
 [10] Output & Reporting
-
  → Results save panrathu
 
 [★] Quick Reference Card
