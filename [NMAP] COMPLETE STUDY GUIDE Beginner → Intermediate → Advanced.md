@@ -52,7 +52,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Operating System detection
 
 [8] Nmap Scripting Engine (NSE)
-
  → NSE — Advanced scripting
 
 [9] Evasion & Firewall Bypass
