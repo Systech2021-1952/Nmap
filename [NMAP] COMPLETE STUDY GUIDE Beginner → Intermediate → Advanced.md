@@ -40,7 +40,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
    → Basic scan — Beginners ku
 
 [4] Host Discovery
-
  → Host kandupidikkirathu
 
 [5] Port Scanning Techniques
