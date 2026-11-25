@@ -61,7 +61,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Results save panrathu
 
 [★] Quick Reference Card
-
  → Ellaa commands oru pagela
 
 -----
