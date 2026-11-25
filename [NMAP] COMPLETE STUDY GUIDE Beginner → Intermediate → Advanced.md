@@ -43,7 +43,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Host kandupidikkirathu
 
 [5] Port Scanning Techniques
-
  → Port scan techniques
 
 [6] Service & Version Detection
