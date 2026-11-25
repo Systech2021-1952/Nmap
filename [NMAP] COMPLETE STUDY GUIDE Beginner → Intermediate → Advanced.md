@@ -37,7 +37,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
    → Install panni setup panrathu
 
 [3] Basic Scanning (Beginner)
-
    → Basic scan — Beginners ku
 
 [4] Host Discovery
