@@ -34,7 +34,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Nmap enna?
 
 [2] Installation & Setup
-
    → Install panni setup panrathu
 
 [3] Basic Scanning (Beginner)
