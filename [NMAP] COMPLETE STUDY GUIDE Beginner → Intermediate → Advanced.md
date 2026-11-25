@@ -46,7 +46,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Port scan techniques
 
 [6] Service & Version Detection
-
  → Service version kandupidikkirathu
 
 [7] OS Detection
