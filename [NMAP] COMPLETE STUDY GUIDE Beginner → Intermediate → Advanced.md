@@ -49,7 +49,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → Service version kandupidikkirathu
 
 [7] OS Detection
-
  → Operating System detection
 
 [8] Nmap Scripting Engine (NSE)
