@@ -55,7 +55,6 @@ Ethical use pannunga — authorized systems-la matum use pannunga!
  → NSE — Advanced scripting
 
 [9] Evasion & Firewall Bypass
-
  → Firewall bypass techniques
 
 [10] Output & Reporting
